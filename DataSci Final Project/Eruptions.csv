@@ -1,0 +1,42 @@
+"Search Parameters"	"Year"	"Mo"	"Dy"	"Tsu"	"Eq"	"Name"	"Country"	"Latitude"	"Longitude"	"Elevation (m)"	"Type"	"Time Erupt"	"VEI"	"Deaths"	"Total Deaths"	"Total Damage ($Mil)"
+"[""Year >= 1910"",""Region = South America""]"																
+	1916	3	3			"Tungurahua"	"Ecuador"	-1.467	-78.442	5023	"Stratovolcano"	"D1"	4			
+	1917	4				"Calbuco"	"Chile"	-41.33	-72.618	1974	"Stratovolcano"	"D2"	3			
+	1929	1	6			"Calbuco"	"Chile"	-41.33	-72.618	1974	"Stratovolcano"	"D2"	3			
+	1936	8	14			"Dona Juana"	"Colombia"	1.5	-76.936	4137	"Stratovolcano"	"D2"		18	18	
+	1937	2	9			"Llaima"	"Chile"	-38.692	-71.729	3125	"Stratovolcano"	"D1"	2	3	3	
+	1943	4	13			"Azul, Cerro"	"Ecuador"	-0.92	-91.408	1640	"Shield volcano"	"D1"	3	1	1	
+	1949	1	1			"Villarrica"	"Chile"	-39.42	-71.93	2847	"Stratovolcano"	"D1"	3	54	54	
+	1949	5	26			"Purace"	"Colombia"	2.32	-76.4	4650	"Stratovolcano"	"D1"	2	17	17	
+	1955	7	26			"Carran-Los Venados"	"Chile"	-40.35	-72.07	1114	"Pyroclastic cone"	"D1"	4	2	2	
+	1960	5	25	1902	4227	"Puyehue-Cordon Caulle"	"Chile"	-40.59	-72.117	2236	"Stratovolcano"	"U"	3			
+	1961	1	25			"Calbuco"	"Chile"	-41.33	-72.618	1974	"Stratovolcano"	"D2"	3			
+	1963	5	21			"Villarrica"	"Chile"	-39.42	-71.93	2847	"Stratovolcano"	"D1"	2			
+	1964	3	3			"Villarrica"	"Chile"	-39.42	-71.93	2847	"Stratovolcano"	"D1"	2	25	25	
+	1971	8	12			"Hudson, Cerro"	"Chile"	-45.9	-72.97	1905	"Stratovolcano"	"D1"	3	5	3	
+	1971	10	29			"Villarrica"	"Chile"	-39.42	-71.93	2847	"Stratovolcano"	"D1"	2	15	15	
+	1973	4	5			"Hudson, Cerro"	"Chile"	-45.9	-72.97	1905	"Stratovolcano"	"D1"		2	2	
+	1976	8	12			"Sangay"	"Ecuador"	-2.005	-78.341	5286	"Stratovolcano"	"D1"	3	2	2	
+	1985	11	13			"Ruiz, Nevado del"	"Colombia"	4.892	-75.324	5279	"Stratovolcano"	"D1"	3	23080	23080	
+	1988	12	25			"Lonquimay"	"Chile"	-38.379	-71.586	2832	"Stratovolcano"	"D1"	3	1	1	
+	1990	5	29			"Coropuna"	"Peru"	-15.52	-72.65	6377	"Stratovolcano"	"D1"	3			
+	1991	8	8			"Hudson, Cerro"	"Chile"	-45.9	-72.97	1905	"Stratovolcano"	"D1"	5			
+	1993	1	14			"Galeras"	"Colombia"	1.22	-77.37	4276	"Complex volcano"	"D1"	2	9	9	
+	1993	3	12			"Guagua Pichincha"	"Ecuador"	-0.171	-78.598	4784	"Stratovolcano"	"D1"	1	2	2	
+	1994	6	6		5387	"Huila, Nevado del"	"Colombia"	2.93	-76.03	5364	"Stratovolcano"	"D5"			650	2.4
+	1999	10	5			"Guagua Pichincha"	"Ecuador"	-0.171	-78.598	4784	"Stratovolcano"	"D1"	3	2	2	
+	1999	10	16			"Tungurahua"	"Ecuador"	-1.467	-78.442	5023	"Stratovolcano"	"D1"	3	1	1	
+	2002	11	3			"Reventador"	"Ecuador"	-0.077	-77.656	3562	"Stratovolcano"	"D1"	4			
+	2006	7	18			"Tungurahua"	"Ecuador"	-1.467	-78.442	5023	"Stratovolcano"	"D1"	3	1	1	
+	2006	8	17			"Tungurahua"	"Ecuador"	-1.467	-78.442	5023	"Stratovolcano"	"D1"	3	5	6	
+	2007	4	18			"Huila, Nevado del"	"Colombia"	2.93	-76.03	5364	"Stratovolcano"	"D5"				
+	2008	5	2			"Chaiten"	"Chile"	-42.833	-72.646	1122	"Caldera"	"D1"		1	1	
+	2008	8	22			"Tungurahua"	"Ecuador"	-1.467	-78.442	5023	"Stratovolcano"	"D1"	3	2	2	
+	2008	11	20			"Huila, Nevado del"	"Colombia"	2.93	-76.03	5364	"Stratovolcano"	"D5"		10	10	
+	2010	1				"Tungurahua"	"Ecuador"	-1.467	-78.442	5023	"Stratovolcano"	"D1"	3			
+	2010	11				"Tungurahua"	"Ecuador"	-1.467	-78.442	5023	"Stratovolcano"	"D1"	3			
+	2011	4				"Tungurahua"	"Ecuador"	-1.467	-78.442	5023	"Stratovolcano"	"D1"	4			
+	2011	6	4			"Puyehue-Cordon Caulle"	"Chile"	-40.59	-72.117	2236	"Stratovolcano"	"U"	4			
+	2013	9	1			"Ubinas"	"Peru"	-16.355	-70.903	5672	"Stratovolcano"	"D1"				
+	2015	4	22			"Calbuco"	"Chile"	-41.33	-72.618	1974	"Stratovolcano"	"D2"				
+	2021	3	5			"Sangay"	"Ecuador"	-2.005	-78.341	5286	"Stratovolcano"	"D1"	2			

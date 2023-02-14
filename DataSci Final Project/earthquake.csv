@@ -1,0 +1,368 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1940-12-29T18:05:38.510Z,1.113,-90.851,15,5.81,mw,,,,,iscgem,iscgem901752,2022-04-26T19:40:55.180Z,"213 km NNW of Puerto Ayora, Ecuador",earthquake,,25,0.25,,reviewed,iscgem,iscgem
+1940-12-01T21:10:32.160Z,6.923,-82.827,15,5.93,mw,,,,,iscgem,iscgem901723,2022-04-26T19:40:20.546Z,"122 km S of Burica, Panama",earthquake,,25,0.24,,reviewed,iscgem,iscgem
+1940-11-23T03:48:54.930Z,9.053,-84.248,15,5.85,mw,,,,,iscgem,iscgem901717,2022-04-26T19:40:04.674Z,"42 km SSW of Quepos, Costa Rica",earthquake,,14,0.39,,reviewed,iscgem,iscgem
+1940-10-27T10:36:16.040Z,-21.117,-69.984,35,5.73,mw,,,,,iscgem,iscgem901671,2022-04-26T19:39:10.763Z,"101 km S of Iquique, Chile",earthquake,,31.5,0.29,,reviewed,iscgem,iscgem
+1940-10-27T05:35:39.730Z,9.459,-84.367,35,6.72,mw,,,,,iscgem,iscgem901670,2022-04-26T19:39:04.847Z,"8 km SW of Parrita, Costa Rica",earthquake,,15.1,0.25,,reviewed,iscgem,iscgem
+1940-10-24T20:06:47.690Z,-33.913,-71.455,45,6.14,mw,,,,,iscgem,iscgem901667,2022-04-26T19:38:53.798Z,"33 km SW of Melipilla, Chile",earthquake,,10.9,0.28,,reviewed,iscgem,iscgem
+1940-10-11T18:41:19.750Z,-41.976,-73.712,35,6.92,mw,,,,,iscgem,iscgem901645,2022-04-26T19:38:28.280Z,"14 km SE of Ancud, Chile",earthquake,,25,0.38,,reviewed,iscgem,iscgem
+1940-10-06T15:38:24.500Z,-19.76,-70.586,15,6.28,mw,,,,,iscgem,iscgem901636,2022-04-26T19:38:20.538Z,"67 km NW of Iquique, Chile",earthquake,,11.7,0.2,,reviewed,iscgem,iscgem
+1940-10-05T14:38:46.320Z,9.395,-84.249,15,6.08,mw,,,,,iscgem,iscgem901632,2022-04-26T19:38:14.246Z,"10 km WSW of Quepos, Costa Rica",earthquake,,22.4,0.35,,reviewed,iscgem,iscgem
+1940-10-04T07:55:00.750Z,-19.978,-70.425,35,7.21,mw,,,,,iscgem,iscgem901628,2022-04-26T19:38:12.470Z,"Near the coast of Tarapaca, Chile",earthquake,,6.2,0.22,,reviewed,iscgem,iscgem
+1940-10-02T03:15:48.920Z,9.698,-84.224,15,6.01,mw,,,,,iscgem,iscgem901622,2022-04-26T19:38:00.156Z,"5 km SSE of Tejar, Costa Rica",earthquake,,22.4,0.2,,reviewed,iscgem,iscgem
+1940-10-01T10:42:50.590Z,-28.359,-71.004,45,6.16,mw,,,,,iscgem,iscgem901618,2022-04-26T19:37:48.133Z,"33 km NW of Vallenar, Chile",earthquake,,13.8,0.2,,reviewed,iscgem,iscgem
+1940-08-26T05:00:50.360Z,1.236,-90.526,15,6.01,mw,,,,,iscgem,iscgem901550,2022-04-26T19:36:36.739Z,"219 km N of Puerto Ayora, Ecuador",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1940-07-13T16:47:30.300Z,7.897,-82.154,15,6.41,mw,,,,,iscgem,iscgem901475,2022-04-26T19:35:56.464Z,"south of Panama",earthquake,,25,0.33,,reviewed,iscgem,iscgem
+1940-05-24T21:57:55.960Z,-11.196,-77.636,45,6.7,mw,,,,,iscgem,iscgem901376,2022-05-09T22:49:09.805Z,"10 km SSW of Huacho, Peru",earthquake,,25,0.34,,reviewed,iscgem,iscgem
+1940-05-24T16:33:59.340Z,-11.217,-77.438,45,8.2,mw,,,,,iscgem,iscgem901374,2022-04-26T19:35:14.769Z,"21 km SE of Huacho, Peru",earthquake,,6,0.4,,reviewed,iscgem,iscgem
+1940-05-17T01:59:43.420Z,7.316,-81.572,15,5.91,mw,,,,,iscgem,iscgem901331,2022-04-26T19:35:00.241Z,"51 km SSW of Río Grande, Panama",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1940-05-05T02:03:45.120Z,-6.895,-80.395,15,6.27,mw,,,,,iscgem,iscgem901316,2022-04-26T19:34:39.306Z,"51 km W of Pimentel, Peru",earthquake,,7.7,0.3,,reviewed,iscgem,iscgem
+1940-04-08T08:49:24.470Z,-32.974,-72.263,20,6.11,mw,,,,,iscgem,iscgem901270,2022-04-26T19:34:22.201Z,"59 km W of Valparaíso, Chile",earthquake,,10.8,0.29,,reviewed,iscgem,iscgem
+1940-03-31T16:52:24.940Z,-19.765,-71.056,15,5.84,mw,,,,,iscgem,iscgem901263,2022-04-26T19:34:17.536Z,"106 km WNW of Iquique, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1940-02-12T00:01:24.970Z,-28.352,-70.776,35,6.41,mw,,,,,iscgem,iscgem901194,2022-04-26T19:33:43.479Z,"24 km N of Vallenar, Chile",earthquake,,13.8,0.31,,reviewed,iscgem,iscgem
+1939-12-23T17:11:09.470Z,9.657,-84.896,35,6.11,mw,,,,,iscgem,iscgem902279,2022-04-25T20:51:14.305Z,"18 km SSE of Paquera, Costa Rica",earthquake,,15.2,0.49,,reviewed,iscgem,iscgem
+1939-12-22T04:44:03.610Z,9.61,-84.751,25,6.82,mw,,,,,iscgem,iscgem902276,2022-04-25T20:51:07.528Z,"13 km W of Jacó, Costa Rica",earthquake,,15.2,0.2,,reviewed,iscgem,iscgem
+1939-12-21T20:54:52.930Z,9.99,-84.412,25,7.59,mw,,,,,iscgem,iscgem902274,2022-04-25T20:51:00.330Z,"4 km WNW of Atenas, Costa Rica",earthquake,,32.4,0.53,,reviewed,iscgem,iscgem
+1939-11-05T02:02:11.360Z,7.219,-34.161,15,5.93,mw,,,,,iscgem,iscgem902213,2022-04-25T20:50:24.322Z,"central Mid-Atlantic Ridge",earthquake,,6.8,0.2,,reviewed,iscgem,iscgem
+1939-10-20T20:06:06.400Z,7.933,-82.864,15,5.88,mw,,,,,iscgem,iscgem902198,2022-04-25T20:50:04.613Z,"11 km S of Burica, Panama",earthquake,,7.5,0.2,,reviewed,iscgem,iscgem
+1939-06-18T16:46:01.560Z,9.875,-83.782,15,6.04,mw,,,,,iscgem,iscgem902029,2022-04-25T20:47:41.376Z,"6 km WNW of Tucurrique, Costa Rica",earthquake,,16.7,0.43,,reviewed,iscgem,iscgem
+1939-05-06T06:00:11.990Z,5.198,-84.066,15,6.38,mw,,,,,iscgem,iscgem901938,2022-04-25T20:45:36.529Z,"off the coast of Central America",earthquake,,25,0.33,,reviewed,iscgem,iscgem
+1939-04-18T06:22:44.120Z,-27.218,-70.875,35,7.42,mw,,,,,iscgem,iscgem901902,2022-04-25T20:45:19.726Z,"Atacama, Chile",earthquake,,6.2,0.26,,reviewed,iscgem,iscgem
+1939-02-09T15:30:37.950Z,11.101,-86.318,15,6.14,mw,,,,,iscgem,iscgem901823,2022-04-25T20:43:30.616Z,"near the coast of Nicaragua",earthquake,,26.4,0.28,,reviewed,iscgem,iscgem
+1939-01-25T03:32:14.960Z,-36.296,-72.213,35,7.85,mw,,,,,iscgem,iscgem901785,2022-04-25T20:42:33.042Z,"26 km WNW of San Carlos, Chile",earthquake,,6.2,0.2,,reviewed,iscgem,iscgem
+1939-01-18T01:44:18.010Z,-29.662,-71.449,35,6.04,mw,,,,,iscgem,iscgem901770,2022-04-25T20:42:12.253Z,"33 km NW of La Serena, Chile",earthquake,,4.7,0.3,,reviewed,iscgem,iscgem
+1938-09-01T22:48:24.980Z,12.564,-89.261,15,6.28,mw,,,,,iscgem,iscgem902655,2022-04-25T20:57:40.402Z,"102 km S of La Libertad, El Salvador",earthquake,,20.2,0.26,,reviewed,iscgem,iscgem
+1938-06-23T01:04:07.600Z,-28.76,-70.804,35,5.93,mw,,,,,iscgem,iscgem902549,2022-04-25T20:55:27.922Z,"20 km SSW of Vallenar, Chile",earthquake,,26.5,0.2,,reviewed,iscgem,iscgem
+1938-05-06T18:17:33.680Z,12.473,-86.52,35,6.12,mw,,,,,iscgem,iscgem902474,2022-04-25T20:54:05.374Z,"22 km NE of La Paz Centro, Nicaragua",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1938-04-25T17:07:51.530Z,12.094,-86.922,15,6.13,mw,,,,,iscgem,iscgem902461,2022-04-25T20:53:59.621Z,"38 km SW of La Paz Centro, Nicaragua",earthquake,,18.8,0.2,,reviewed,iscgem,iscgem
+1938-04-17T14:39:37.170Z,-19.659,-69.937,35,6.37,mw,,,,,iscgem,iscgem902443,2022-04-25T20:53:49.460Z,"Tarapaca, Chile",earthquake,,15,0.26,,reviewed,iscgem,iscgem
+1938-02-08T14:21:28.850Z,-1.527,-81.226,15,6.29,mw,,,,,iscgem,iscgem902368,2022-04-25T20:52:50.821Z,"74 km WSW of Jipijapa, Ecuador",earthquake,,10.3,0.2,,reviewed,iscgem,iscgem
+1938-02-08T07:16:14.110Z,-1.402,-80.82,15,6.29,mw,,,,,iscgem,iscgem902365,2022-04-25T20:52:49.546Z,"27 km WSW of Jipijapa, Ecuador",earthquake,,10.3,0.2,,reviewed,iscgem,iscgem
+1937-12-28T06:19:29.700Z,0.838,-29.484,15,6.27,mw,,,,,iscgem,iscgem903414,2022-04-25T21:19:14.038Z,"central Mid-Atlantic Ridge",earthquake,,10.7,0.22,,reviewed,iscgem,iscgem
+1937-12-24T06:20:43.870Z,-10.637,-75.562,15,6.46,mw,,,,,iscgem,iscgem903407,2022-04-25T21:19:05.190Z,"18 km WSW of Oxapampa, Peru",earthquake,,11.1,0.37,,reviewed,iscgem,iscgem
+1937-10-06T21:48:08.090Z,1.361,-29.352,15,6,mw,,,,,iscgem,iscgem903295,2022-04-25T21:17:26.523Z,"central Mid-Atlantic Ridge",earthquake,,25,0.53,,reviewed,iscgem,iscgem
+1937-08-22T11:31:44.060Z,7.246,-36.07,15,5.58,mw,,,,,iscgem,iscgem903215,2022-04-25T21:16:08.385Z,"central Mid-Atlantic Ridge",earthquake,,25,0.24,,reviewed,iscgem,iscgem
+1937-06-24T13:13:33.570Z,8.154,-83.694,15,6.1,mw,,,,,iscgem,iscgem903129,2022-04-25T21:07:56.802Z,"80 km SW of Golfito, Costa Rica",earthquake,,6.8,0.2,,reviewed,iscgem,iscgem
+1937-06-21T15:13:05.170Z,-8.276,-79.628,30,7.11,mw,,,,,iscgem,iscgem903121,2022-04-25T21:07:53.763Z,"55 km SW of Santiago de Cao, Peru",earthquake,,2.8,0.2,,reviewed,iscgem,iscgem
+1937-05-21T13:12:18.920Z,2.504,-78.285,15,5.91,mw,,,,,iscgem,iscgem903085,2022-04-25T21:07:46.274Z,"15 km NW of La Tola, Colombia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1937-03-29T06:18:49.900Z,8.632,-83.159,15,5.98,mw,,,,,iscgem,iscgem903018,2022-04-25T21:07:06.434Z,"5 km WNW of Golfito, Costa Rica",earthquake,,7.3,0.2,,reviewed,iscgem,iscgem
+1937-03-23T19:00:47.510Z,0.753,-29.318,15,5.8,mw,,,,,iscgem,iscgem903009,2022-04-25T21:07:01.463Z,"central Mid-Atlantic Ridge",earthquake,,10.7,0.2,,reviewed,iscgem,iscgem
+1937-03-23T00:44:24.330Z,-36.593,-97.996,15,6.2,mw,,,,,iscgem,iscgem903008,2022-04-25T21:07:00.351Z,"West Chile Rise",earthquake,,5.2,0.2,,reviewed,iscgem,iscgem
+1937-03-19T18:11:52.780Z,-30.069,-71.328,35,6.16,mw,,,,,iscgem,iscgem902999,2022-04-25T21:06:54.948Z,"12 km S of Coquimbo, Chile",earthquake,,20.3,0.2,,reviewed,iscgem,iscgem
+1937-03-17T13:59:54.980Z,8.936,-83.885,15,5.86,mw,,,,,iscgem,iscgem902998,2022-04-25T21:06:53.797Z,"39 km W of Ciudad Cortés, Costa Rica",earthquake,,14,0.2,,reviewed,iscgem,iscgem
+1937-03-14T11:55:46.980Z,-24.883,-70.795,15,6.46,mw,,,,,iscgem,iscgem902993,2022-04-25T21:06:50.358Z,"65 km NNW of Taltal, Chile",earthquake,,10.8,0.2,,reviewed,iscgem,iscgem
+1937-03-09T15:40:24.800Z,8.85,-83.445,20,6.4,mw,,,,,iscgem,iscgem902989,2022-04-25T21:06:46.982Z,"14 km SE of Ciudad Cortés, Costa Rica",earthquake,,16.2,0.2,,reviewed,iscgem,iscgem
+1937-01-08T15:09:51.970Z,-39.089,-73.721,25,6.1,mw,,,,,iscgem,iscgem902911,2022-04-25T21:05:30.863Z,"64 km SW of Carahue, Chile",earthquake,,25,0.56,,reviewed,iscgem,iscgem
+1936-11-26T02:12:02.650Z,10.578,-83.956,15,6.1,mw,,,,,iscgem,iscgem903964,2022-04-25T21:30:32.957Z,"37 km ENE of Pital, Costa Rica",earthquake,,13.7,0.2,,reviewed,iscgem,iscgem
+1936-11-01T16:10:17.160Z,-36.528,-71.649,15,6.27,mw,,,,,iscgem,iscgem903915,2022-04-25T21:29:14.025Z,"19 km NE of Coihueco, Chile",earthquake,,47.2,0.2,,reviewed,iscgem,iscgem
+1936-10-29T05:53:00.900Z,6.803,-82.149,15,6.11,mw,,,,,iscgem,iscgem903906,2022-04-25T21:29:01.724Z,"135 km SW of Río Grande, Panama",earthquake,,11.9,0.2,,reviewed,iscgem,iscgem
+1936-10-15T21:08:46.950Z,-36.491,-72.797,15,6.4,mw,,,,,iscgem,iscgem903880,2022-04-25T21:28:04.752Z,"19 km NE of Tomé, Chile",earthquake,,5.9,0.4,,reviewed,iscgem,iscgem
+1936-07-26T07:36:58.230Z,-24.28,-70.768,35,6.63,mw,,,,,iscgem,iscgem903756,2022-04-25T21:25:22.124Z,"79 km SSW of Antofagasta, Chile",earthquake,,6.8,0.35,,reviewed,iscgem,iscgem
+1936-07-13T11:12:18.530Z,-24.718,-70.155,35,7.52,mw,,,,,iscgem,iscgem903742,2022-04-25T21:25:07.602Z,"83 km NNE of Taltal, Chile",earthquake,,5.6,0.39,,reviewed,iscgem,iscgem
+1936-05-22T00:15:59.370Z,-32.212,-65.684,15,6.21,mw,,,,,iscgem,iscgem903641,2022-04-25T21:22:42.553Z,"21 km SE of Candelaria, Argentina",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1936-03-20T18:46:27.200Z,10.455,-84.409,15,5.84,mw,,,,,iscgem,iscgem903524,2022-04-25T21:21:05.944Z,"14 km N of Quesada, Costa Rica",earthquake,,10.3,0.2,,reviewed,iscgem,iscgem
+1935-12-24T12:24:12.590Z,2.728,-79.18,25,6.31,mw,,,,,iscgem,iscgem904719,2022-04-25T21:40:28.675Z,"84 km WNW of Mosquera, Colombia",earthquake,,2.9,0.26,,reviewed,iscgem,iscgem
+1935-11-30T03:39:51.560Z,9.701,-79.745,35,6.33,mw,,,,,iscgem,iscgem904676,2022-04-25T21:39:21.571Z,"19 km NNW of Portobelo, Panama",earthquake,,14.2,0.29,,reviewed,iscgem,iscgem
+1935-11-23T07:52:35.040Z,1.216,-85.718,15,6.07,mw,,,,,iscgem,iscgem904664,2022-04-25T21:38:59.374Z,"off the coast of Ecuador",earthquake,,25,0.37,,reviewed,iscgem,iscgem
+1935-11-16T00:04:40.510Z,7.685,-36.941,15,5.73,mw,,,,,iscgem,iscgem904653,2022-04-25T21:38:47.004Z,"central Mid-Atlantic Ridge",earthquake,,7.7,0.2,,reviewed,iscgem,iscgem
+1935-10-14T17:36:50.920Z,4.788,-82.88,15,5.53,mw,,,,,iscgem,iscgem904583,2022-04-25T21:37:27.330Z,"south of Panama",earthquake,,25,0.62,,reviewed,iscgem,iscgem
+1935-09-18T04:57:55.780Z,5.099,-76.078,15,6.07,mw,,,,,iscgem,iscgem904522,2022-04-25T21:36:06.691Z,"12 km WNW of Santuario, Colombia",earthquake,,15.4,0.51,,reviewed,iscgem,iscgem
+1935-09-01T00:48:45.950Z,12.528,-87.739,35,5.58,mw,,,,,iscgem,iscgem904490,2022-04-25T21:35:42.612Z,"39 km SW of Jiquilillo, Nicaragua",earthquake,,19.9,0.39,,reviewed,iscgem,iscgem
+1935-08-07T09:02:15.880Z,0.921,-77.461,15,5.95,mw,,,,,iscgem,iscgem904456,2022-04-25T21:35:25.170Z,"8 km SE of Iles, Colombia",earthquake,,12.2,0.27,,reviewed,iscgem,iscgem
+1935-08-05T23:50:15.980Z,-35.251,-71.882,35,6.07,mw,,,,,iscgem,iscgem904453,2022-04-25T21:35:23.948Z,"28 km NW of Talca, Chile",earthquake,,30,0.2,,reviewed,iscgem,iscgem
+1935-08-01T16:08:21.810Z,10.59,-85.444,15,6.19,mw,,,,,iscgem,iscgem904446,2022-04-25T21:35:20.071Z,"5 km S of Liberia, Costa Rica",earthquake,,22.5,0.22,,reviewed,iscgem,iscgem
+1935-07-26T04:43:28.860Z,8.002,-82.107,15,5.96,mw,,,,,iscgem,iscgem904429,2022-04-25T21:34:59.329Z,"27 km SSE of Boca Chica, Panama",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1935-07-09T12:21:33.060Z,-27.588,-71.336,35,6.23,mw,,,,,iscgem,iscgem904383,2022-04-25T21:34:16.973Z,"102 km WSW of Copiapó, Chile",earthquake,,6.5,0.2,,reviewed,iscgem,iscgem
+1935-07-09T06:41:06.800Z,-26.981,-70.722,35,5.94,mw,,,,,iscgem,iscgem904381,2022-04-25T21:34:11.812Z,"57 km NW of Copiapó, Chile",earthquake,,28.6,0.2,,reviewed,iscgem,iscgem
+1935-06-28T02:00:26.140Z,-36.368,-74.18,15,6.04,mw,,,,,iscgem,iscgem904359,2022-04-25T21:33:46.936Z,"103 km WNW of Talcahuano, Chile",earthquake,,25,0.22,,reviewed,iscgem,iscgem
+1935-06-11T21:56:01.440Z,4.094,-82.662,15,5.91,mw,,,,,iscgemsup,iscgemsup904340,2022-05-09T17:14:30.707Z,"south of Panama",earthquake,,6.4,0.71,,reviewed,iscgemsup,iscgemsup
+1935-04-10T22:32:36.480Z,10.612,-62.687,100,6.6,mw,,,,,iscgem,iscgem904192,2022-04-25T21:32:21.887Z,"42 km W of Güiria, Venezuela",earthquake,,37.1,0.4,,reviewed,iscgem,iscgem
+1934-12-23T09:52:20.290Z,-20.61,-67.772,15,6.09,mw,,,,,iscgem,iscgem905317,2022-04-25T21:50:44.469Z,"93 km WSW of Colchani, Bolivia",earthquake,,12.9,0.2,,reviewed,iscgem,iscgem
+1934-12-22T14:29:37.160Z,11.362,-86.859,25,6.65,mw,,,,,iscgem,iscgem905316,2022-04-25T21:50:43.331Z,"60 km SW of Masachapa, Nicaragua",earthquake,,22.3,0.28,,reviewed,iscgem,iscgem
+1934-12-04T17:24:33.200Z,-19.27,-69.743,35,6.55,mw,,,,,iscgem,iscgem905299,2022-04-25T21:50:16.640Z,"105 km SSE of Arica, Chile",earthquake,,10.2,0.21,,reviewed,iscgem,iscgem
+1934-09-26T07:27:31.370Z,4.756,-32.521,10,5.88,mw,,,,,iscgem,iscgem905198,2022-04-25T21:49:07.697Z,"central Mid-Atlantic Ridge",earthquake,,5.5,0.2,,reviewed,iscgem,iscgem
+1934-08-06T12:07:09.460Z,3.333,-77.938,15,5.85,mw,,,,,iscgem,iscgem905093,2022-04-25T21:09:17.289Z,"69 km NNW of Timbiquí, Colombia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1934-07-23T18:21:33.070Z,7.413,-34.807,10,5.9,mw,,,,,iscgem,iscgem905073,2022-04-25T21:46:46.150Z,"central Mid-Atlantic Ridge",earthquake,,10.5,0.2,,reviewed,iscgem,iscgem
+1934-07-21T10:39:14.330Z,8.173,-82.474,25,6.76,mw,,,,,iscgem,iscgem905067,2022-04-25T21:46:40.445Z,"20 km SSE of Guarumal, Panama",earthquake,,14.4,0.2,,reviewed,iscgem,iscgem
+1934-07-18T16:59:45.400Z,7.458,-82.382,25,6.83,mw,,,,,iscgem,iscgem905045,2022-04-25T21:46:15.624Z,"south of Panama",earthquake,,17,0.24,,reviewed,iscgem,iscgem
+1934-07-18T16:09:54.470Z,7.772,-82.521,25,5.83,mw,,,,,iscgem,iscgem905044,2022-04-25T21:46:10.510Z,"48 km SE of Burica, Panama",earthquake,,14.4,0.4,,reviewed,iscgem,iscgem
+1934-07-18T04:00:40.570Z,7.961,-82.886,20,6.62,mw,,,,,iscgem,iscgem905038,2022-04-25T21:46:04.675Z,"8 km SSW of Burica, Panama",earthquake,,7.5,0.2,,reviewed,iscgem,iscgem
+1934-07-18T01:36:31.380Z,7.853,-82.513,30,7.5,mw,,,,,iscgem,iscgem905037,2022-04-25T21:46:03.240Z,"44 km ESE of Burica, Panama",earthquake,,14.4,0.4,,reviewed,iscgem,iscgem
+1934-07-04T01:42:36.090Z,-55.445,-39.864,10,6.1,mw,,,,,iscgem,iscgem905016,2022-04-25T21:45:53.101Z,"South Georgia Island region",earthquake,,25,0.24,,reviewed,iscgem,iscgem
+1934-05-22T11:01:41.610Z,0.508,-30.336,10,6.01,mw,,,,,iscgem,iscgem904948,2022-04-25T21:45:16.648Z,"",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1934-04-09T15:29:25.330Z,-36.087,-98.946,10,6.23,mw,,,,,iscgem,iscgem904875,2022-04-25T21:44:07.812Z,"southeast of Easter Island",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1934-04-03T07:36:32.090Z,4.243,-77.742,15,5.94,mw,,,,,iscgem,iscgem904867,2022-04-25T21:43:55.241Z,"41 km W of Santa Genoveva de Docordó, Colombia",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1934-03-01T21:45:15.730Z,-40.387,-72.497,15,6.63,mw,,,,,iscgem,iscgem904821,2022-04-25T21:43:04.881Z,"31 km NNE of Puyehue, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1934-02-12T06:43:19.170Z,9.4,-83.206,35,5.8,mw,,,,,iscgem,iscgem904788,2022-04-25T21:42:19.505Z,"28 km NNE of Buenos Aires, Costa Rica",earthquake,,9.3,0.2,,reviewed,iscgem,iscgem
+1933-12-02T20:05:09.310Z,-51.844,-46.353,10,6.35,mw,,,,,iscgem,iscgem905941,2022-04-25T22:00:59.380Z,"South Atlantic Ocean",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1933-11-29T05:03:27.780Z,7.815,-82.624,25,6.02,mw,,,,,iscgem,iscgem905934,2022-04-25T22:00:33.944Z,"36 km SE of Burica, Panama",earthquake,,14.4,0.2,,reviewed,iscgem,iscgem
+1933-11-23T18:57:50.370Z,8.01,-83.131,25,6.16,mw,,,,,iscgem,iscgem905930,2022-04-25T22:00:23.004Z,"29 km W of Burica, Panama",earthquake,,7.5,0.2,,reviewed,iscgem,iscgem
+1933-11-22T04:52:05.170Z,8.024,-83.185,25,5.99,mw,,,,,iscgem,iscgem905922,2022-04-25T22:00:12.115Z,"34 km W of Burica, Panama",earthquake,,7.5,0.25,,reviewed,iscgem,iscgem
+1933-11-21T23:48:40.160Z,7.337,-83.001,15,6.16,mw,,,,,iscgem,iscgem905921,2022-04-25T22:00:10.633Z,"78 km S of Burica, Panama",earthquake,,10.2,0.37,,reviewed,iscgem,iscgem
+1933-11-04T08:41:18.540Z,8.615,-71.836,15,5.89,mw,,,,,iscgem,iscgem905897,2022-04-25T22:00:00.825Z,"19 km W of El Vigía, Venezuela",earthquake,,2.2,0.38,,reviewed,iscgem,iscgem
+1933-10-03T10:21:24.480Z,-1.78,-80.917,15,5.95,mw,,,,,iscgem,iscgem905856,2022-04-25T21:59:36.850Z,"48 km N of Salinas, Ecuador",earthquake,,20.9,0.2,,reviewed,iscgem,iscgem
+1933-10-02T15:29:27.890Z,-1.82,-80.747,15,6.79,mw,,,,,iscgem,iscgem905851,2022-04-25T21:59:35.453Z,"46 km SW of Paján, Ecuador",earthquake,,15.7,0.2,,reviewed,iscgem,iscgem
+1933-07-31T15:23:00.360Z,-15.382,-75.579,10,5.84,mw,,,,,iscgem,iscgem905748,2022-04-25T21:57:49.446Z,"44 km W of San Juan, Peru",earthquake,,5.9,0.22,,reviewed,iscgem,iscgem
+1933-07-23T04:13:09.100Z,-15.334,-73.642,15,5.91,mw,,,,,iscgem,iscgem905733,2022-04-25T21:57:38.667Z,"12 km SW of Incuyo, Peru",earthquake,,25,0.43,,reviewed,iscgem,iscgem
+1933-07-21T20:06:48.800Z,-55.634,-30.211,35,6.56,mw,,,,,iscgem,iscgem905730,2022-04-25T21:57:27.570Z,"South Sandwich Islands region",earthquake,,25,0.21,,reviewed,iscgem,iscgem
+1933-05-30T11:43:39.300Z,8.346,-82.83,25,5.75,mw,,,,,iscgem,iscgem905603,2022-04-25T21:55:13.805Z,"2 km WNW of Manaca Norte, Panama",earthquake,,7.3,0.31,,reviewed,iscgem,iscgem
+1933-05-06T20:30:37.410Z,5.438,-82.13,15,5.79,mw,,,,,iscgem,iscgem905555,2022-04-25T21:54:31.308Z,"255 km SSW of Arenas, Panama",earthquake,,25,0.51,,reviewed,iscgem,iscgem
+1933-05-06T05:33:38.970Z,5.763,-82.492,15,6.29,mw,,,,,iscgem,iscgem905554,2022-04-25T21:54:29.663Z,"251 km SSW of Río Grande, Panama",earthquake,,10.3,0.2,,reviewed,iscgem,iscgem
+1933-02-23T08:09:19.490Z,-20.521,-70.192,35,7.28,mw,,,,,iscgem,iscgem905405,2022-04-25T21:51:54.418Z,"34 km S of Iquique, Chile",earthquake,,20.9,0.27,,reviewed,iscgem,iscgem
+1932-12-09T08:34:55.030Z,-15.031,-75.125,35,6.05,mw,,,,,iscgem,iscgem906496,2022-04-25T22:09:56.427Z,"near the coast of central Peru",earthquake,,17.3,0.2,,reviewed,iscgem,iscgem
+1932-11-29T11:11:00.000Z,-32.177,-71.331,35,6.59,mw,,,,,iscgem,iscgem906476,2022-04-25T22:09:47.773Z,"31 km NNW of La Ligua, Chile",earthquake,,25.2,0.21,,reviewed,iscgem,iscgem
+1932-10-02T02:59:16.590Z,11.364,-86.58,30,6.81,mw,,,,,iscgem,iscgem906404,2022-05-09T22:49:01.315Z,"47 km S of Masachapa, Nicaragua",earthquake,,23.8,0.7,,reviewed,iscgem,iscgem
+1932-06-18T00:13:38.160Z,-19.49,-71.343,15,5.73,mw,,,,,iscgem,iscgem906232,2022-04-25T22:06:21.440Z,"148 km WNW of Iquique, Chile",earthquake,,25,0.68,,reviewed,iscgem,iscgem
+1932-06-09T06:30:42.140Z,-27.446,-70.996,35,5.83,mw,,,,,iscgem,iscgem906215,2022-04-25T22:06:00.359Z,"66 km W of Copiapó, Chile",earthquake,,11.6,0.2,,reviewed,iscgem,iscgem
+1932-05-31T08:37:17.310Z,7.324,-37.618,10,5.83,mw,,,,,iscgem,iscgem906177,2022-04-25T22:04:53.257Z,"central Mid-Atlantic Ridge",earthquake,,4.9,0.2,,reviewed,iscgem,iscgem
+1932-04-26T07:54:51.750Z,-25.564,-69.875,60,6.27,mw,,,,,iscgem,iscgem906118,2022-04-25T22:03:49.063Z,"63 km ESE of Taltal, Chile",earthquake,,4.9,0.2,,reviewed,iscgem,iscgem
+1932-03-14T22:42:52.860Z,7.954,-71.997,15,6.27,mw,,,,,iscgem,iscgem906065,2022-04-25T22:03:30.387Z,"29 km ENE of Táriba, Venezuela",earthquake,,5.6,0.2,,reviewed,iscgem,iscgem
+1932-02-17T16:06:58.590Z,11.749,-73.801,15,5.94,mw,,,,,iscgem,iscgem906026,2022-04-25T22:03:14.514Z,"71 km NE of Santa Marta, Colombia",earthquake,,25,0.4,,reviewed,iscgem,iscgem
+1932-01-20T02:30:55.240Z,-11.08,-77.285,65,6.13,mw,,,,,iscgem,iscgem905984,2022-04-25T22:02:25.386Z,"11 km WNW of Sayán, Peru",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1931-10-12T03:57:28.440Z,7.3,-82.355,15,6.01,mw,,,,,iscgem,iscgem907075,2022-04-25T22:23:14.820Z,"99 km SE of Burica, Panama",earthquake,,17,0.26,,reviewed,iscgem,iscgem
+1931-09-21T21:36:58.520Z,-8.289,-80.772,10,6.04,mw,,,,,iscgem,iscgem907027,2022-04-25T22:22:38.358Z,"164 km SW of Pacasmayo, Peru",earthquake,,25,0.4,,reviewed,iscgem,iscgem
+1931-07-27T16:28:57.310Z,1.255,-90.694,10,5.92,mw,,,,,iscgem,iscgem906897,2022-04-25T22:19:41.049Z,"224 km N of Puerto Ayora, Ecuador",earthquake,,25,0.21,,reviewed,iscgem,iscgem
+1931-07-11T05:56:07.950Z,-8.292,-74.164,15,5.88,mw,,,,,iscgem,iscgem906869,2022-04-25T22:19:04.816Z,"42 km ENE of San Fernando, Peru",earthquake,,5.5,0.2,,reviewed,iscgem,iscgem
+1931-06-29T20:24:12.350Z,-29.674,-70.934,25,6.01,mw,,,,,iscgem,iscgem906840,2022-04-25T22:18:57.789Z,"39 km NE of La Serena, Chile",earthquake,,19.1,0.2,,reviewed,iscgem,iscgem
+1931-06-15T11:20:04.220Z,-14.783,-75.716,35,5.88,mw,,,,,iscgem,iscgem906824,2022-04-25T22:18:24.468Z,"54 km WSW of Changuillo, Peru",earthquake,,4.4,0.2,,reviewed,iscgem,iscgem
+1931-05-20T21:53:53.780Z,-29.067,-72.542,15,6.11,mw,,,,,iscgem,iscgem906787,2022-04-25T22:17:32.367Z,"152 km NW of Coquimbo, Chile",earthquake,,25,0.44,,reviewed,iscgem,iscgem
+1931-05-01T22:36:56.240Z,8.132,-70.077,15,5.93,mw,,,,,iscgem,iscgem906754,2022-04-25T22:16:40.964Z,"53 km SSE of Alto Barinas, Venezuela",earthquake,,10.9,0.24,,reviewed,iscgem,iscgem
+1931-04-03T05:18:53.170Z,-26.621,-64.503,15,6.02,mw,,,,,iscgem,iscgem906702,2022-04-25T21:09:52.384Z,"27 km ESE of Burruyacú, Argentina",earthquake,,25,0.35,,reviewed,iscgem,iscgem
+1931-04-03T01:56:16.860Z,-9.895,-79.423,35,6.1,mw,,,,,iscgem,iscgem906701,2022-04-25T22:15:16.083Z,"123 km WSW of Puerto Casma, Peru",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1931-03-31T16:02:19.590Z,12.569,-87.453,15,6.1,mw,,,,,iscgem,iscgem906694,2022-04-25T22:15:07.691Z,"19 km S of Jiquilillo, Nicaragua",earthquake,,19.9,0.2,,reviewed,iscgem,iscgem
+1931-03-18T08:02:24.590Z,-33.926,-71.556,35,7.2,mw,,,,,iscgem,iscgem906680,2022-04-25T22:15:00.137Z,"37 km S of San Antonio, Chile",earthquake,,10.9,0.26,,reviewed,iscgem,iscgem
+1931-03-07T00:41:52.350Z,11.067,-85.89,15,6.23,mw,,,,,iscgem,iscgem906652,2022-04-25T22:14:23.221Z,"20 km S of San Juan del Sur, Nicaragua",earthquake,,36.2,0.2,,reviewed,iscgem,iscgem
+1930-12-24T06:02:46.520Z,-25.102,-65.419,15,6.12,mw,,,,,iscgem,iscgem907833,2022-04-25T22:35:41.540Z,"7 km ESE of El Carril, Argentina",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1930-10-17T08:46:38.750Z,-32.632,-71.177,35,6.45,mw,,,,,iscgem,iscgem907651,2022-04-25T22:33:10.603Z,"17 km NNE of Hacienda La Calera, Chile",earthquake,,21.5,0.2,,reviewed,iscgem,iscgem
+1930-09-23T23:34:01.140Z,-25.894,-65.602,15,5.99,mw,,,,,iscgem,iscgem907608,2022-04-25T22:32:27.809Z,"42 km ENE of Cafayate, Argentina",earthquake,,25,0.47,,reviewed,iscgem,iscgem
+1930-08-29T08:27:39.980Z,7.913,-81.804,35,5.85,mw,,,,,iscgem,iscgem907565,2022-04-25T22:31:53.049Z,"24 km SSW of Quebrada de Piedra, Panama",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1930-07-29T06:24:00.880Z,12.545,-86.894,15,5.99,mw,,,,,iscgem,iscgem907525,2022-04-25T22:30:55.829Z,"4 km NNE of Quezalguaque, Nicaragua",earthquake,,50.3,0.2,,reviewed,iscgem,iscgem
+1930-07-13T01:12:09.400Z,-56.21,-70.637,10,6.28,mw,,,,,iscgem,iscgem907493,2022-04-25T22:30:21.290Z,"213 km SW of Ushuaia, Argentina",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1930-06-25T21:21:42.480Z,-14.945,-76.049,15,6.63,mw,,,,,iscgem,iscgem907467,2022-04-25T22:30:06.168Z,"91 km SSW of Santiago, Peru",earthquake,,7.3,0.25,,reviewed,iscgem,iscgem
+1930-06-25T10:17:46.710Z,-15.452,-75.145,30,6.23,mw,,,,,iscgem,iscgem907464,2022-04-25T22:30:03.054Z,"9 km S of San Juan, Peru",earthquake,,9.7,0.2,,reviewed,iscgem,iscgem
+1930-06-22T18:24:45.110Z,-45.385,-79.283,10,5.98,mw,,,,,iscgem,iscgem907460,2022-04-25T22:29:50.660Z,"Off the coast of Aisen, Chile",earthquake,,25,0.28,,reviewed,iscgem,iscgem
+1930-03-08T03:45:30.870Z,9.874,-78.871,15,5.91,mw,,,,,iscgem,iscgem907262,2022-04-25T22:25:55.348Z,"36 km NNE of El Porvenir, Panama",earthquake,,10.6,0.23,,reviewed,iscgem,iscgem
+1929-12-06T20:21:12.630Z,-55.199,-29.233,15,6.52,mw,,,,,iscgem,iscgem908406,2022-04-25T22:46:35.129Z,"South Sandwich Islands region",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1929-11-08T03:20:10.860Z,2.414,-88.733,10,5.75,mw,,,,,iscgem,iscgem908381,2022-04-25T22:45:56.614Z,"Galapagos Islands, Ecuador region",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1929-10-02T09:18:16.440Z,-54.938,-29.34,35,5.95,mw,,,,,iscgem,iscgem908328,2022-04-25T21:10:55.577Z,"South Sandwich Islands region",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1929-08-22T16:32:57.030Z,-33.294,-95.946,10,5.79,mw,,,,,iscgemsup,iscgemsup908284,2022-05-09T17:38:32.128Z,"West Chile Rise",earthquake,,25,0.27,,reviewed,iscgemsup,iscgemsup
+1929-08-15T19:56:26.080Z,5.024,-82.58,15,6.2,mw,,,,,iscgem,iscgem908266,2022-04-25T22:43:41.065Z,"south of Panama",earthquake,,9.6,0.28,,reviewed,iscgem,iscgem
+1929-07-27T12:53:13.620Z,8.832,-39.907,10,5.73,mw,,,,,iscgem,iscgem908236,2022-04-25T22:42:44.217Z,"central Mid-Atlantic Ridge",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1929-07-15T14:29:46.950Z,-31.425,-71.105,35,5.67,mw,,,,,iscgem,iscgem908216,2022-04-25T22:42:27.097Z,"23 km NNE of Illapel, Chile",earthquake,,26.2,0.37,,reviewed,iscgem,iscgem
+1929-06-27T12:47:13.930Z,-55.373,-29.345,15,8.1,mw,,,,,iscgem,iscgem908171,2022-04-25T22:41:23.999Z,"South Sandwich Islands region",earthquake,,6.8,0.2,,reviewed,iscgem,iscgem
+1929-05-30T12:10:50.330Z,-35.02,-68.061,10,5.95,mw,,,,,iscgem,iscgem908110,2022-04-25T22:40:07.870Z,"50 km SSE of San Rafael, Argentina",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1929-05-30T09:43:26.560Z,-34.858,-67.692,10,6.68,mw,,,,,iscgem,iscgem908107,2022-04-25T22:40:06.717Z,"64 km ESE of San Rafael, Argentina",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1929-04-16T14:02:50.260Z,-31.32,-72.367,15,5.96,mw,,,,,iscgem,iscgem908017,2022-04-25T22:39:01.754Z,"118 km WNW of Illapel, Chile",earthquake,,11.3,0.35,,reviewed,iscgem,iscgem
+1929-02-22T20:41:50.500Z,10.657,-42.016,10,7.04,mw,,,,,iscgem,iscgem907911,2022-04-25T22:37:09.298Z,"",earthquake,,3.9,0.29,,reviewed,iscgem,iscgem
+1929-02-15T08:04:45.190Z,12.597,-89.616,15,6.19,mw,,,,,iscgem,iscgem907902,2022-04-25T22:37:04.444Z,"103 km SSW of La Libertad, El Salvador",earthquake,,20.2,0.2,,reviewed,iscgem,iscgem
+1929-02-08T02:04:50.360Z,12.13,-95.044,15,5.77,mw,,,,,iscgem,iscgem907892,2022-04-25T22:36:56.179Z,"",earthquake,,25,0.33,,reviewed,iscgem,iscgem
+1929-01-27T16:07:12.130Z,7.433,-37.09,10,6.2,mw,,,,,iscgem,iscgem907879,2022-04-25T22:36:34.425Z,"central Mid-Atlantic Ridge",earthquake,,7.7,0.2,,reviewed,iscgem,iscgem
+1929-01-19T03:17:43.210Z,8.199,-86.915,10,5.93,mw,,,,,iscgem,iscgem907864,2022-04-25T21:10:14.652Z,"240 km SW of Sámara, Costa Rica",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1929-01-17T11:45:42.790Z,10.393,-64.527,10,6.7,mw,,,,,iscgem,iscgem907860,2022-04-25T22:36:10.972Z,"22 km NNE of Puerto La Cruz, Venezuela",earthquake,,13.1,0.3,,reviewed,iscgem,iscgem
+1928-12-26T21:33:01.090Z,6.208,-99.228,10,5.96,mw,,,,,iscgem,iscgem909030,2022-04-25T23:00:47.830Z,"east central Pacific Ocean",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-12-20T06:34:54.740Z,-35.385,-71.897,35,5.68,mw,,,,,iscgem,iscgem909025,2022-04-25T23:00:41.827Z,"22 km WNW of Talca, Chile",earthquake,,30,0.41,,reviewed,iscgem,iscgem
+1928-12-16T18:43:17.620Z,-35.198,-73.523,15,5.63,mw,,,,,iscgem,iscgem909019,2022-04-25T23:00:30.404Z,"102 km W of Constitución, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-12-08T13:23:37.020Z,-35.872,-72.295,35,5.48,mw,,,,,iscgem,iscgem909001,2022-04-25T22:59:51.709Z,"10 km NNE of Cauquenes, Chile",earthquake,,35.5,0.2,,reviewed,iscgem,iscgem
+1928-12-05T11:04:33.870Z,2.445,-95.499,10,5.51,mw,,,,,iscgem,iscgem908998,2022-04-25T22:59:48.910Z,"Galapagos Islands, Ecuador region",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-12-03T12:26:21.240Z,5.533,-85.009,15,5.88,mw,,,,,iscgem,iscgem908996,2022-04-25T22:59:43.412Z,"off the coast of Central America",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-12-03T11:31:36.130Z,-35.11,-72.195,35,5.27,mw,,,,,iscgemsup,iscgemsup908995,2022-05-09T17:41:43.038Z,"31 km NE of Constitución, Chile",earthquake,,22.9,0.2,,reviewed,iscgemsup,iscgemsup
+1928-12-02T23:16:00.970Z,-35.146,-72.72,35,5.52,mw,,,,,iscgem,iscgem908991,2022-04-25T22:59:37.799Z,"34 km NW of Constitución, Chile",earthquake,,7.3,0.2,,reviewed,iscgem,iscgem
+1928-12-02T04:20:26.070Z,-35.712,-72.74,30,7.23,mw,,,,,iscgem,iscgem908989,2022-04-25T22:59:32.657Z,"47 km NW of Cauquenes, Chile",earthquake,,12.8,0.33,,reviewed,iscgem,iscgem
+1928-12-01T18:32:26.100Z,-35.453,-72.429,35,6.17,mw,,,,,iscgem,iscgem908988,2022-04-25T22:59:27.510Z,"13 km S of Constitución, Chile",earthquake,,12.8,0.26,,reviewed,iscgem,iscgem
+1928-12-01T09:19:23.380Z,-36.025,-73.224,35,6.02,mw,,,,,iscgem,iscgem908987,2022-04-25T22:59:22.104Z,"67 km WNW of Quirihue, Chile",earthquake,,7.6,0.21,,reviewed,iscgem,iscgem
+1928-12-01T04:06:17.600Z,-35.084,-72.267,35,7.7,mw,,,,,iscgem,iscgem908986,2022-04-25T22:59:16.733Z,"30 km NNE of Constitución, Chile",earthquake,,7.3,0.4,,reviewed,iscgem,iscgem
+1928-11-29T12:23:35.360Z,-23.878,-70.743,15,5.91,mw,,,,,iscgem,iscgem908982,2022-04-25T21:12:16.814Z,"43 km SW of Antofagasta, Chile",earthquake,,4.6,0.34,,reviewed,iscgem,iscgem
+1928-11-20T20:35:12.480Z,-23.157,-70.057,45,7.03,mw,,,,,iscgem,iscgem908971,2022-04-25T21:12:01.223Z,"64 km NNE of Antofagasta, Chile",earthquake,,20.4,0.35,,reviewed,iscgem,iscgem
+1928-11-01T16:08:36.790Z,4.948,-73.097,15,5.93,mw,,,,,iscgem,iscgem908950,2022-04-25T22:58:50.430Z,"9 km S of Campohermoso, Colombia",earthquake,,19.4,0.2,,reviewed,iscgem,iscgem
+1928-10-25T12:33:03.980Z,11.613,-87.012,30,6.58,mw,,,,,iscgem,iscgem908944,2022-04-25T22:58:34.644Z,"57 km WSW of Masachapa, Nicaragua",earthquake,,22.3,0.33,,reviewed,iscgem,iscgem
+1928-10-17T15:19:35.910Z,-53.686,-55.847,10,6.47,mw,,,,,iscgem,iscgem908933,2022-04-25T22:58:17.906Z,"Falkland Islands region",earthquake,,25,0.39,,reviewed,iscgem,iscgem
+1928-09-27T00:44:10.640Z,12.097,-59.763,10,6.48,mw,,,,,iscgem,iscgem908913,2022-04-25T22:57:29.974Z,"110 km SSW of Oistins, Barbados",earthquake,,24.6,0.3,,reviewed,iscgem,iscgem
+1928-08-31T05:14:40.750Z,8.346,-37.03,10,5.54,mw,,,,,iscgem,iscgem908874,2022-04-25T22:56:25.128Z,"central Mid-Atlantic Ridge",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-07-28T19:50:13.230Z,-31.26,-72.208,15,6.04,mw,,,,,iscgem,iscgem908802,2022-04-25T22:55:19.320Z,"107 km WNW of Illapel, Chile",earthquake,,11.3,0.21,,reviewed,iscgem,iscgem
+1928-07-18T19:05:09.260Z,-5.732,-78.982,35,7.09,mw,,,,,iscgem,iscgem908792,2022-04-25T22:54:54.579Z,"15 km SSW of Huabal, Peru",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-06-25T07:20:53.450Z,-20.273,-71.227,15,5.65,mw,,,,,iscgem,iscgem908756,2022-04-25T22:54:03.963Z,"112 km W of Iquique, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-05-26T14:03:28.790Z,-4.544,-77.716,15,5.96,mw,,,,,iscgem,iscgem908696,2022-04-25T22:52:57.073Z,"119 km WNW of Barranca, Peru",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-05-24T05:38:15.170Z,5.734,-83.112,15,5.77,mw,,,,,iscgem,iscgem908691,2022-04-25T22:52:55.475Z,"255 km S of Burica, Panama",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-05-21T17:02:13.520Z,-4.824,-81.025,35,5.52,mw,,,,,iscgem,iscgem908687,2022-04-25T22:52:52.853Z,"10 km NNE of San Lucas ( Pueblo Nuevo de Colan), Peru",earthquake,,5.8,0.24,,reviewed,iscgem,iscgem
+1928-05-16T07:56:44.340Z,-5.327,-79.6,35,5.96,mw,,,,,iscgem,iscgem908673,2022-04-25T22:52:27.203Z,"5 km NNE of Canchaque, Peru",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-05-15T02:36:18.790Z,-5.344,-78.733,35,6.27,mw,,,,,iscgem,iscgem908669,2022-04-25T22:52:14.529Z,"34 km NNE of Las Pirias, Peru",earthquake,,25,0.22,,reviewed,iscgem,iscgem
+1928-05-14T22:14:48.040Z,-5.449,-78.658,10,7.28,mw,,,,,iscgem,iscgem908668,2022-04-25T22:52:09.394Z,"23 km N of Bellavista, Peru",earthquake,,25,0.35,,reviewed,iscgem,iscgem
+1928-05-01T00:11:27.820Z,-35.488,-72.399,35,6.07,mw,,,,,iscgem,iscgem908654,2022-04-25T22:52:04.702Z,"17 km S of Constitución, Chile",earthquake,,12.8,0.2,,reviewed,iscgem,iscgem
+1928-04-27T20:35:00.470Z,-13.476,-70.402,25,6.5,mw,,,,,iscgem,iscgem908650,2022-04-25T22:51:58.095Z,"41 km S of Mazuko, Peru",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-04-12T18:08:34.850Z,-27.77,-73.877,10,5.91,mw,,,,,iscgem,iscgem908594,2022-04-25T22:50:59.948Z,"Off the coast of Atacama, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-04-09T17:34:17.090Z,-13.595,-70.343,25,6.71,mw,,,,,iscgem,iscgem908588,2022-04-25T22:50:53.844Z,"41 km NE of Corani, Peru",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-04-02T04:37:52.070Z,-25.149,-67.846,15,5.55,mw,,,,,iscgem,iscgem908582,2022-04-25T22:50:45.160Z,"110 km NNW of Antofagasta de la Sierra, Argentina",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-01-18T12:22:24.960Z,-14.032,-77.258,35,5.93,mw,,,,,iscgem,iscgem908463,2022-04-25T22:47:29.637Z,"108 km W of Paracas, Peru",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-01-14T12:58:25.030Z,-28.66,-71.075,35,5.74,mw,,,,,iscgem,iscgem908459,2022-04-25T22:47:28.321Z,"32 km WSW of Vallenar, Chile",earthquake,,13.8,0.2,,reviewed,iscgem,iscgem
+1928-01-12T13:06:43.250Z,-29.861,-71.809,30,6.47,mw,,,,,iscgem,iscgem908457,2022-04-25T22:47:26.983Z,"46 km WNW of Coquimbo, Chile",earthquake,,19.5,0.2,,reviewed,iscgem,iscgem
+1927-11-21T23:12:33.660Z,-44.861,-72.686,15,7.04,mw,,,,,iscgem,iscgem909648,2022-04-25T23:12:16.274Z,"12 km S of Puerto Cisnes, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1927-11-21T18:50:56.370Z,-9.17,-79.147,35,5.86,mw,,,,,iscgem,iscgem909647,2022-04-25T21:12:37.298Z,"58 km WSW of Puerto Santa, Peru",earthquake,,9.7,0.2,,reviewed,iscgem,iscgem
+1927-11-14T07:19:30.460Z,-30.825,-70.742,50,6.72,mw,,,,,iscgem,iscgem909624,2022-04-25T23:11:46.321Z,"25 km SE of Monte Patria, Chile",earthquake,,17.1,0.31,,reviewed,iscgem,iscgem
+1927-11-02T06:09:45.530Z,-20.519,-68.476,15,5.34,mw,,,,,iscgemsup,iscgemsup909601,2022-05-09T17:44:54.055Z,"162 km W of Colchani, Bolivia",earthquake,,10.9,0.25,,reviewed,iscgemsup,iscgemsup
+1927-09-03T19:47:48.920Z,10.833,-43.473,10,6.6,mw,,,,,iscgem,iscgem909486,2022-04-25T23:08:45.952Z,"northern Mid-Atlantic Ridge",earthquake,,5.5,0.21,,reviewed,iscgem,iscgem
+1927-08-21T10:19:15.520Z,5.58,-81.609,10,5.85,mw,,,,,iscgem,iscgem909463,2022-04-25T23:08:04.756Z,"214 km SSW of Arenas, Panama",earthquake,,25,0.24,,reviewed,iscgem,iscgem
+1927-08-20T23:54:31.140Z,5.286,-81.949,10,6.71,mw,,,,,iscgem,iscgem909462,2022-04-25T21:12:31.731Z,"260 km SSW of Arenas, Panama",earthquake,,25,0.22,,reviewed,iscgem,iscgem
+1927-08-10T01:35:32.560Z,7.248,-82.466,15,6.61,mw,,,,,iscgem,iscgem909441,2022-04-25T23:07:43.696Z,"97 km SSE of Burica, Panama",earthquake,,12.2,0.28,,reviewed,iscgem,iscgem
+1927-08-05T03:43:18.490Z,-0.556,-85.254,15,5.58,mw,,,,,iscgem,iscgem909427,2022-04-25T23:07:22.492Z,"off the coast of Ecuador",earthquake,,25,0.37,,reviewed,iscgem,iscgem
+1927-07-25T03:15:32.310Z,-56.638,-29.534,15,5.77,mw,,,,,iscgemsup,iscgemsup909406,2022-05-09T17:43:13.590Z,"South Sandwich Islands region",earthquake,,25,0.45,,reviewed,iscgemsup,iscgemsup
+1927-07-14T23:27:44.290Z,-8.709,-81.448,15,6.13,mw,,,,,iscgem,iscgem909383,2022-04-25T23:06:51.701Z,"252 km SW of Pacasmayo, Peru",earthquake,,25,0.52,,reviewed,iscgem,iscgem
+1927-06-25T08:20:21.480Z,-30.041,-73.168,15,5.75,mw,,,,,iscgem,iscgem909349,2022-04-25T23:06:00.478Z,"176 km W of Coquimbo, Chile",earthquake,,25,0.36,,reviewed,iscgem,iscgem
+1927-06-10T17:08:17.420Z,-0.695,-78.072,15,5.99,mw,,,,,iscgem,iscgem909329,2022-04-25T23:05:43.842Z,"",earthquake,,6.2,0.2,,reviewed,iscgem,iscgem
+1927-05-19T05:25:57.160Z,1.71,-85.149,15,6.04,mw,,,,,iscgem,iscgem909263,2022-04-25T23:05:04.236Z,"off the coast of Ecuador",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1927-03-14T07:43:09.230Z,-25.469,-69.801,15,5.5,mw,,,,,iscgemsup,iscgemsup909138,2022-05-09T17:42:15.234Z,"69 km E of Taltal, Chile",earthquake,,4.9,0.2,,reviewed,iscgemsup,iscgemsup
+1927-03-13T05:32:35.970Z,-5.614,-80.622,35,5.97,mw,,,,,iscgem,iscgem909135,2022-04-25T23:03:21.689Z,"23 km SE of Bernal, Peru",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1927-03-09T16:13:11.390Z,6.804,-82.746,15,6.12,mw,,,,,iscgem,iscgem909129,2022-04-25T23:03:16.582Z,"136 km S of Burica, Panama",earthquake,,12.2,0.3,,reviewed,iscgem,iscgem
+1927-02-28T14:07:56.700Z,-28.697,-71.095,35,6.49,mw,,,,,iscgem,iscgem909122,2022-04-25T23:03:10.532Z,"35 km WSW of Vallenar, Chile",earthquake,,13.8,0.32,,reviewed,iscgem,iscgem
+1926-12-03T05:19:15.640Z,-34.968,-74.013,15,5.79,mw,,,,,iscgem,iscgem910263,2022-04-25T23:22:57.607Z,"151 km WNW of Constitución, Chile",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1926-11-13T13:40:20.050Z,-31.348,-72.653,15,5.44,mw,,,,,iscgemsup,iscgemsup910238,2022-05-09T17:47:48.164Z,"144 km WNW of Illapel, Chile",earthquake,,11.3,0.23,,reviewed,iscgemsup,iscgemsup
+1926-11-05T07:55:27.090Z,12.656,-86.82,15,6.98,mw,,,,,iscgem,iscgem910221,2022-04-25T23:22:23.689Z,"15 km NNE of Telica, Nicaragua",earthquake,,4,0.37,,reviewed,iscgem,iscgem
+1926-10-27T14:13:50.330Z,-23.91,-66.362,15,5.65,mw,,,,,iscgemsup,iscgemsup910199,2022-05-09T17:47:36.587Z,"34 km N of San Antonio de los Cobres, Argentina",earthquake,,13.6,0.2,,reviewed,iscgemsup,iscgemsup
+1926-10-25T15:38:55.880Z,-33.804,-72.729,15,5.74,mw,,,,,iscgem,iscgem910189,2022-04-25T23:21:00.760Z,"106 km WSW of San Antonio, Chile",earthquake,,10.3,0.4,,reviewed,iscgem,iscgem
+1926-10-19T20:48:43.800Z,11.031,-82.243,15,6.01,mw,,,,,iscgem,iscgem910171,2022-04-25T23:20:15.418Z,"144 km NE of Limón, Costa Rica",earthquake,,25,0.26,,reviewed,iscgem,iscgem
+1926-09-10T08:26:53.380Z,-44.684,-79.209,10,5.89,mw,,,,,iscgem,iscgem910099,2022-04-25T23:19:22.093Z,"Off the coast of Aisen, Chile",earthquake,,25,0.5,,reviewed,iscgem,iscgem
+1926-09-06T00:49:57.080Z,-34.339,-73.836,15,5.83,mw,,,,,iscgem,iscgem910085,2022-04-25T23:19:07.266Z,"170 km NW of Constitución, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1926-09-06T00:16:26.690Z,-34.669,-74.572,15,6.31,mw,,,,,iscgem,iscgem910084,2022-04-25T23:19:05.583Z,"210 km WNW of Constitución, Chile",earthquake,,25,0.22,,reviewed,iscgem,iscgem
+1926-08-14T08:36:50.570Z,-41.326,-88.18,10,5.92,mw,,,,,iscgem,iscgem910055,2022-04-25T23:18:23.094Z,"West Chile Rise",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1926-08-09T21:40:16.670Z,-28.753,-71.292,35,5.83,mw,,,,,iscgemsup,iscgemsup910045,2022-05-09T17:47:02.418Z,"55 km WSW of Vallenar, Chile",earthquake,,17.2,0.2,,reviewed,iscgemsup,iscgemsup
+1926-08-09T01:00:40.430Z,-40.357,-73.742,35,5.53,mw,,,,,iscgemsup,iscgemsup910039,2022-05-09T17:46:55.164Z,"56 km W of La Unión, Chile",earthquake,,25,0.51,,reviewed,iscgemsup,iscgemsup
+1926-07-01T20:29:36.560Z,-5.922,-82.655,15,5.95,mw,,,,,iscgem,iscgem909914,2022-04-25T23:17:04.654Z,"193 km WSW of Paita, Peru",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1926-06-05T01:20:48.410Z,-15.078,-75.892,35,5.73,mw,,,,,iscgem,iscgem909862,2022-04-25T23:16:47.309Z,"84 km WNW of San Juan, Peru",earthquake,,7.3,0.21,,reviewed,iscgem,iscgem
+1926-05-13T13:43:59.850Z,-30.045,-74.452,10,5.9,mw,,,,,iscgemsup,iscgemsup909838,2022-05-09T17:46:06.487Z,"Off the coast of Coquimbo, Chile",earthquake,,25,0.23,,reviewed,iscgemsup,iscgemsup
+1926-05-12T03:45:35.160Z,-30.816,-72.866,15,5.77,mw,,,,,iscgem,iscgem909836,2022-04-25T23:16:23.963Z,"161 km W of Ovalle, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1926-05-07T21:09:04.730Z,-38.14,-73.007,35,5.38,mw,,,,,iscgemsup,iscgemsup909831,2022-05-09T17:46:05.258Z,"31 km WNW of Traiguén, Chile",earthquake,,5.8,0.4,,reviewed,iscgemsup,iscgemsup
+1926-05-05T06:21:36.510Z,2.893,-91.384,10,5.88,mw,,,,,iscgem,iscgem909829,2022-04-25T23:16:11.949Z,"Galapagos Islands, Ecuador region",earthquake,,25,0.24,,reviewed,iscgem,iscgem
+1926-03-27T06:23:29.330Z,0.406,-80.099,11,5.51,mw,,,,,iscgemsup,iscgemsup909793,2022-05-09T17:45:48.880Z,"24 km SSW of Muisne, Ecuador",earthquake,,13.4,0.2,,reviewed,iscgemsup,iscgemsup
+1926-03-17T11:53:42.720Z,11.987,-82.065,25,6.71,mw,,,,,iscgem,iscgem909769,2022-04-25T23:14:45.818Z,"76 km SSW of San Andrés, Colombia",earthquake,,14.5,0.25,,reviewed,iscgem,iscgem
+1926-03-11T10:42:05.880Z,-9.119,-72.328,15,5.96,mw,,,,,iscgem,iscgem909762,2022-04-25T23:14:24.224Z,"54 km ESE of Marechal Thaumaturgo, Brazil",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1926-02-15T02:59:50.600Z,12.104,-88.451,15,6.7,mw,,,,,iscgem,iscgem909744,2022-04-25T23:13:50.945Z,"128 km SSW of Chirilagua, El Salvador",earthquake,,18.5,0.21,,reviewed,iscgem,iscgem
+1926-02-08T15:18:01.820Z,12.292,-88.801,20,7.13,mw,,,,,iscgem,iscgem909737,2022-04-25T21:12:39.460Z,"113 km SSW of Puerto El Triunfo, El Salvador",earthquake,,25.6,0.24,,reviewed,iscgem,iscgem
+1926-02-01T01:17:52.590Z,11.186,-62.441,190,5.93,mw,,,,,iscgem,iscgem909727,2022-04-25T23:13:34.322Z,"69 km NNW of Güiria, Venezuela",earthquake,,21,0.4,,reviewed,iscgem,iscgem
+1926-01-01T21:37:19.380Z,-23.508,-70.539,35,6.19,mw,,,,,iscgem,iscgem909699,2022-04-25T23:12:58.215Z,"21 km NW of Antofagasta, Chile",earthquake,,7.8,0.2,,reviewed,iscgem,iscgem
+1925-12-27T17:38:33.370Z,-6.497,-81.276,15,6.3,mw,,,,,iscgem,iscgem910785,2022-04-25T23:29:00.687Z,"115 km SSW of Sechura, Peru",earthquake,,25,0.32,,reviewed,iscgem,iscgem
+1925-11-17T00:17:52.210Z,-10.575,-80.622,10,6.32,mw,,,,,iscgem,iscgem910740,2022-04-25T23:28:22.321Z,"274 km WSW of Puerto Casma, Peru",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1925-11-06T13:57:48.010Z,-12.031,-74.143,15,6.04,mw,,,,,iscgem,iscgem910729,2022-04-25T23:28:10.695Z,"71 km NE of Paucarbamba, Peru",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1925-10-13T17:40:38.120Z,10.702,-42.279,10,7.11,mw,,,,,iscgem,iscgem910710,2022-04-25T23:28:01.876Z,"northern Mid-Atlantic Ridge",earthquake,,25,0.4,,reviewed,iscgem,iscgem
+1925-09-12T09:26:08.820Z,-8.381,-75.492,15,5.69,mw,,,,,iscgem,iscgem910681,2022-04-25T23:27:53.810Z,"58 km NNW of San Alejandro, Peru",earthquake,,7.7,0.33,,reviewed,iscgem,iscgem
+1925-08-11T19:41:36.980Z,-35.538,-72.381,35,6.05,mw,,,,,iscgem,iscgem910642,2022-04-25T23:27:33.155Z,"22 km S of Constitución, Chile",earthquake,,12.8,0.46,,reviewed,iscgem,iscgem
+1925-07-31T08:46:19.100Z,5.037,-78.956,15,5.87,mw,,,,,iscgem,iscgem910626,2022-04-25T23:27:24.177Z,"176 km W of Pizarro, Colombia",earthquake,,25,0.21,,reviewed,iscgem,iscgem
+1925-07-05T07:02:05.280Z,11.633,-39.464,10,5.66,mw,,,,,iscgem,iscgem910588,2022-04-25T23:27:13.086Z,"North Atlantic Ocean",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1925-05-15T11:57:05.280Z,-25.468,-70.445,30,6.31,mw,,,,,iscgem,iscgem910497,2022-04-25T23:25:54.251Z,"7 km SSE of Taltal, Chile",earthquake,,23,0.29,,reviewed,iscgem,iscgem
+1925-03-29T21:12:35.940Z,7.879,-77.83,15,6.4,mw,,,,,iscgem,iscgem910429,2022-04-25T23:24:58.018Z,"19 km SSE of Camogantí, Panama",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1925-01-28T10:58:45.360Z,9.73,-81.643,15,6.2,mw,,,,,iscgem,iscgem910342,2022-04-25T23:24:16.214Z,"66 km NNE of Kusapín, Panama",earthquake,,25,0.26,,reviewed,iscgem,iscgem
+1925-01-26T19:02:20.780Z,8.464,-83.327,15,6.24,mw,,,,,iscgem,iscgem910339,2022-04-25T23:24:13.379Z,"28 km WSW of Golfito, Costa Rica",earthquake,,9.8,0.43,,reviewed,iscgem,iscgem
+1924-10-18T23:05:31.670Z,2.959,-79.885,15,6.07,mw,,,,,iscgem,iscgem911164,2022-04-25T21:13:47.709Z,"167 km WNW of Mosquera, Colombia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1924-10-12T19:34:16.060Z,-0.205,-29.595,10,6.42,mw,,,,,iscgem,iscgem911155,2022-04-25T23:33:38.263Z,"central Mid-Atlantic Ridge",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1924-07-22T04:04:00.740Z,-1.248,-78.917,15,6.23,mw,,,,,iscgem,iscgem911038,2022-04-25T23:31:36.459Z,"33 km W of Ambato, Ecuador",earthquake,,14.6,0.2,,reviewed,iscgem,iscgem
+1924-07-07T17:20:41.070Z,-17.258,-61.788,15,5.59,mw,,,,,iscgemsup,iscgemsup911018,2022-05-09T17:53:10.853Z,"109 km E of Okinawa Número Uno, Bolivia",earthquake,,25,0.29,,reviewed,iscgemsup,iscgemsup
+1924-07-06T14:18:51.100Z,7.218,-77.696,20,6.43,mw,,,,,iscgem,iscgem911013,2022-04-25T23:31:16.844Z,"14 km NNE of Juradó, Colombia",earthquake,,6.1,0.2,,reviewed,iscgem,iscgem
+1924-06-22T22:29:06.280Z,5.082,-78.608,15,5.84,mw,,,,,iscgem,iscgem910995,2022-04-25T23:31:11.065Z,"138 km W of Pizarro, Colombia",earthquake,,25,0.28,,reviewed,iscgem,iscgem
+1924-05-01T19:54:23.630Z,12.415,-89.015,20,6.69,mw,,,,,iscgem,iscgem910933,2022-04-25T23:30:51.802Z,"108 km SSW of Puerto El Triunfo, El Salvador",earthquake,,25.6,0.29,,reviewed,iscgem,iscgem
+1924-03-25T15:03:34.560Z,10.531,-83.962,25,6.01,mw,,,,,iscgem,iscgem910884,2022-04-25T23:30:16.828Z,"35 km ENE of Pital, Costa Rica",earthquake,,13.7,0.2,,reviewed,iscgem,iscgem
+1924-03-25T14:06:57.490Z,9.484,-84.902,25,6.21,mw,,,,,iscgem,iscgem910883,2022-04-25T23:30:11.682Z,"33 km WSW of Jacó, Costa Rica",earthquake,,15.2,0.3,,reviewed,iscgem,iscgem
+1924-03-24T20:29:18.220Z,9.727,-84.148,25,6.08,mw,,,,,iscgem,iscgem910881,2022-04-25T23:30:10.265Z,"8 km S of San Ignacio, Costa Rica",earthquake,,22.4,0.2,,reviewed,iscgem,iscgem
+1924-03-11T22:44:25.790Z,-3.277,-81.7,15,6.04,mw,,,,,iscgem,iscgem910863,2022-04-25T23:29:55.368Z,"117 km NW of Máncora, Peru",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1924-03-11T10:41:18.180Z,10.081,-84.898,20,6.35,mw,,,,,iscgem,iscgem910860,2022-04-25T23:29:53.833Z,"13 km NNW of Puntarenas, Costa Rica",earthquake,,13.4,0.2,,reviewed,iscgem,iscgem
+1924-03-04T11:43:44.410Z,9.906,-86.154,15,6.52,mw,,,,,iscgem,iscgem910854,2022-04-25T23:29:52.713Z,"68 km W of Sámara, Costa Rica",earthquake,,10.5,0.31,,reviewed,iscgem,iscgem
+1924-03-04T10:07:52.210Z,9.587,-84.515,25,6.65,mw,,,,,iscgem,iscgem910853,2022-04-25T23:29:51.408Z,"12 km ESE of Jacó, Costa Rica",earthquake,,15.1,0.4,,reviewed,iscgem,iscgem
+1924-01-29T01:54:58.960Z,-28.183,-70.715,45,6.8,mw,,,,,iscgem,iscgem910820,2022-04-25T23:29:25.973Z,"43 km N of Vallenar, Chile",earthquake,,12.8,0.4,,reviewed,iscgem,iscgem
+1923-12-22T09:56:12.090Z,4.56,-73.509,15,6.38,mw,,,,,iscgem,iscgem911781,2022-04-25T21:14:12.034Z,"14 km S of Gachalá, Colombia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1923-12-14T10:31:19.960Z,0.691,-78.19,10,6.26,mw,,,,,iscgem,iscgem911774,2022-04-25T23:39:34.239Z,"28 km WNW of El Ángel, Ecuador",earthquake,,3.6,0.57,,reviewed,iscgem,iscgem
+1923-11-06T17:15:23.250Z,-38.708,-73.182,35,6.16,mw,,,,,iscgem,iscgem911723,2022-04-25T23:39:16.690Z,"1 km W of Carahue, Chile",earthquake,,9.4,0.38,,reviewed,iscgem,iscgem
+1923-09-26T02:29:22.790Z,1.682,-30.409,10,6.13,mw,,,,,iscgem,iscgem911656,2022-04-25T23:38:41.181Z,"central Mid-Atlantic Ridge",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1923-08-17T01:05:11.140Z,-25.164,-70.926,35,6.18,mw,,,,,iscgem,iscgem911507,2022-04-25T23:37:40.446Z,"51 km WNW of Taltal, Chile",earthquake,,10.8,0.2,,reviewed,iscgem,iscgem
+1923-08-08T12:01:19.630Z,10.384,-62.623,20,6.3,mw,,,,,iscgem,iscgem911491,2022-04-25T23:37:00.559Z,"41 km WSW of Güiria, Venezuela",earthquake,,37.1,0.2,,reviewed,iscgem,iscgem
+1923-07-10T00:29:17.240Z,-30.207,-71.799,35,6.4,mw,,,,,iscgem,iscgem911441,2022-04-25T23:36:23.773Z,"52 km WSW of Coquimbo, Chile",earthquake,,19.5,0.2,,reviewed,iscgem,iscgem
+1923-05-04T22:26:51.220Z,-28.89,-71.405,35,6.56,mw,,,,,iscgem,iscgem911356,2022-05-09T22:48:50.685Z,"72 km WSW of Vallenar, Chile",earthquake,,17.2,0.2,,reviewed,iscgem,iscgem
+1922-11-26T13:30:00.810Z,-29.85,-71.474,35,6.21,mw,,,,,iscgem,iscgem912092,2022-04-25T23:42:31.451Z,"17 km NW of Coquimbo, Chile",earthquake,,20.3,0.39,,reviewed,iscgem,iscgem
+1922-11-17T11:02:54.010Z,-30.42,-72.486,15,6.76,mw,,,,,iscgem,iscgem912083,2022-04-25T23:42:30.344Z,"121 km WSW of Coquimbo, Chile",earthquake,,14.3,0.29,,reviewed,iscgem,iscgem
+1922-11-11T18:09:35.450Z,-28.037,-71.482,35,6.71,mw,,,,,iscgem,iscgem912063,2022-04-25T23:42:29.229Z,"92 km NW of Vallenar, Chile",earthquake,,14.8,0.2,,reviewed,iscgem,iscgem
+1922-11-11T04:32:51.000Z,-28.293,-69.852,70,8.5,mw,,,,,official,official19221111043251_30,2022-04-25T23:42:28.127Z,"94 km ENE of Vallenar, Chile",earthquake,,,,,automatic,iscgem,official
+1922-11-07T23:00:17.680Z,-28.369,-71.942,25,6.99,mw,,,,,iscgem,iscgem912057,2022-04-25T21:14:18.405Z,"118 km WNW of Vallenar, Chile",earthquake,,6.7,0.4,,reviewed,iscgem,iscgem
+1922-10-11T14:49:57.440Z,-16.287,-72.705,75,7.21,mw,,,,,iscgem,iscgem912037,2022-04-25T23:42:11.432Z,"35 km N of El Cardo, Peru",earthquake,,23.6,0.47,,reviewed,iscgem,iscgem
+1922-05-21T15:40:42.150Z,-34.101,-73.819,15,6.1,mw,,,,,iscgemsup,iscgemsup911903,2022-05-09T17:56:50.931Z,"187 km NW of Constitución, Chile",earthquake,,25,0.44,,reviewed,iscgemsup,iscgemsup
+1922-05-11T06:45:30.410Z,11.463,-60.29,15,6.1,mw,,,,,iscgem,iscgem911897,2022-04-25T23:40:48.768Z,"57 km ENE of Scarborough, Trinidad and Tobago",earthquake,,20.1,0.24,,reviewed,iscgem,iscgem
+1922-04-06T03:12:59.180Z,-14.089,-77.589,15,6.34,mw,,,,,iscgem,iscgem911856,2022-04-25T23:40:27.541Z,"144 km W of Paracas, Peru",earthquake,,25,0.41,,reviewed,iscgem,iscgem
+1922-03-12T16:51:54.650Z,-39.205,-73.714,35,6.56,mw,,,,,iscgemsup,iscgemsup911840,2022-05-09T17:56:33.266Z,"72 km SW of Carahue, Chile",earthquake,,25,1.02,,reviewed,iscgemsup,iscgemsup
+1922-02-16T03:14:47.930Z,11.317,-86.073,25,6.41,mw,,,,,iscgem,iscgem911826,2022-05-09T22:48:49.066Z,"19 km SW of Tola, Nicaragua",earthquake,,53.5,0.2,,reviewed,iscgem,iscgem
+1922-01-17T03:50:28.100Z,-2.853,-71.438,475,7.9,mw,,,,,iscgem,iscgem911801,2022-04-25T23:39:41.293Z,"143 km ESE of San Antonio del Estrecho, Peru",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1922-01-06T14:11:07.650Z,-17.536,-72.639,15,6.76,mw,,,,,iscgem,iscgem911793,2022-04-25T23:39:38.946Z,"82 km SW of Islay (Matarani), Peru",earthquake,,9.9,0.29,,reviewed,iscgem,iscgem
+1921-12-18T15:29:27.130Z,-3.918,-71.52,540,7.3,mw,,,,,iscgem,iscgem912389,2022-04-25T21:14:30.026Z,"130 km W of Puerto Nariño, Colombia",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1921-11-13T08:40:57.950Z,11.829,-71.459,15,6.35,mw,,,,,iscgem,iscgem912363,2022-04-25T23:45:18.809Z,"88 km E of Uribia, Colombia",earthquake,,42.7,0.39,,reviewed,iscgem,iscgem
+1921-10-25T15:45:34.380Z,6.871,-82.484,15,6.01,mw,,,,,iscgem,iscgem912352,2022-04-25T23:45:08.855Z,"135 km SSE of Burica, Panama",earthquake,,12.2,0.22,,reviewed,iscgem,iscgem
+1921-03-28T07:49:28.780Z,12.61,-87.216,65,7.2,mw,,,,,iscgem,iscgem912192,2022-04-25T23:43:15.890Z,"7 km SW of El Viejo, Nicaragua",earthquake,,50.3,0.34,,reviewed,iscgem,iscgem
+1921-01-09T12:55:07.200Z,-13.386,-74.191,15,6.53,mw,,,,,iscgem,iscgem912145,2022-04-25T23:42:47.769Z,"12 km S of Chiara, Peru",earthquake,,25,0.48,,reviewed,iscgem,iscgem
+1920-12-17T19:00:04.570Z,-31.905,-68.412,15,6.74,mw,,,,,iscgem,iscgem912690,2022-04-25T23:50:16.141Z,"26 km S of Nueve de Julio, Argentina",earthquake,,12.8,0.2,,reviewed,iscgem,iscgem
+1920-12-10T04:25:49.770Z,-39.102,-73.462,25,7.29,mw,,,,,iscgem,iscgem912683,2022-04-25T23:49:53.813Z,"50 km SSW of Carahue, Chile",earthquake,,25,0.56,,reviewed,iscgem,iscgem
+1920-10-22T12:09:55.010Z,-21.602,-71.579,15,6.59,mw,,,,,iscgem,iscgem912646,2022-04-25T23:49:34.838Z,"152 km WNW of Tocopilla, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1920-10-07T20:54:03.070Z,-12.387,-71.094,15,6.5,mw,,,,,iscgem,iscgem912632,2022-04-25T23:49:00.226Z,"57 km NNE of Salvación, Peru",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1920-09-24T21:55:09.750Z,6.319,-82.587,15,6.27,mw,,,,,iscgem,iscgem912626,2022-04-25T23:48:51.361Z,"192 km S of Burica, Panama",earthquake,,4.9,0.2,,reviewed,iscgem,iscgem
+1920-08-20T16:15:42.640Z,-37.911,-72.887,15,6.95,mw,,,,,iscgem,iscgem16958437,2022-04-25T20:34:36.680Z,"19 km SW of Angol, Chile",earthquake,,5.8,0.2,,reviewed,iscgem,iscgem
+1920-08-13T02:02:46.040Z,-18.807,-63.908,15,6.06,mw,,,,,iscgem,iscgem912578,2022-04-25T23:47:47.895Z,"40 km SSE of Vallegrande, Bolivia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1920-08-03T19:57:22.090Z,-27.475,-67.867,15,7.03,mw,,,,,iscgem,iscgem912573,2022-04-25T23:47:31.464Z,"32 km NW of Fiambalá, Argentina",earthquake,,25,0.21,,reviewed,iscgem,iscgem
+1920-07-16T17:14:14.280Z,4.98,-83.225,15,5.98,mw,,,,,iscgem,iscgem912564,2022-04-25T23:47:17.911Z,"off the coast of Central America",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1920-02-28T18:40:51.900Z,-14.378,-73.316,15,6.51,mw,,,,,iscgem,iscgem912447,2022-04-25T23:45:58.950Z,"12 km WNW of Cotaruse, Peru",earthquake,,8.7,0.2,,reviewed,iscgem,iscgem
+1920-01-30T18:26:47.290Z,3.156,-77.469,35,6.35,mw,,,,,iscgem,iscgem912416,2022-04-25T23:45:43.540Z,"47 km NNE of Timbiquí, Colombia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1919-09-13T12:19:23.720Z,-17.059,-74.034,30,6.66,mw,,,,,iscgemsup,iscgemsup912944,2022-05-09T18:02:16.356Z,"103 km SSW of Atico, Peru",earthquake,,8.8,0.2,,reviewed,iscgemsup,iscgemsup
+1919-07-22T22:01:10.890Z,11.661,-87.748,15,6.1,mw,,,,,iscgem,iscgem912861,2022-04-25T23:52:56.655Z,"110 km SW of Corinto, Nicaragua",earthquake,,16.7,0.23,,reviewed,iscgem,iscgem
+1919-07-17T16:19:50.430Z,12.507,-91.383,15,6.04,mw,,,,,iscgemsup,iscgemsup912853,2022-05-09T18:02:01.312Z,"168 km SSW of Puerto San José, Guatemala",earthquake,,25,0.43,,reviewed,iscgemsup,iscgemsup
+1919-07-11T00:30:40.130Z,7.684,-71.867,15,6.22,mw,,,,,iscgem,iscgem912842,2022-04-25T23:52:38.698Z,"40 km ESE of San Cristóbal, Venezuela",earthquake,,5.2,0.6,,reviewed,iscgem,iscgem
+1919-06-29T23:14:13.250Z,12.32,-88.301,20,6.66,mw,,,,,iscgem,iscgem912823,2022-04-25T23:52:21.079Z,"100 km SSW of Intipucá, El Salvador",earthquake,,20.5,0.21,,reviewed,iscgem,iscgem
+1919-04-21T11:26:11.800Z,8.91,-40.473,10,6.82,mw,,,,,iscgem,iscgem912766,2022-04-25T23:51:31.013Z,"central Mid-Atlantic Ridge",earthquake,,12.3,0.39,,reviewed,iscgem,iscgem
+1919-03-09T03:16:58.860Z,-41.422,-74.365,15,6.85,mw,,,,,iscgem,iscgem912740,2022-04-25T23:51:15.992Z,"67 km NW of Ancud, Chile",earthquake,,25,0.5,,reviewed,iscgem,iscgem
+1919-03-02T11:45:15.190Z,-43.038,-71.306,15,7.18,mw,,,,,iscgem,iscgem912735,2022-04-25T23:51:14.383Z,"13 km ENE of Trevelin, Argentina",earthquake,,25,0.42,,reviewed,iscgem,iscgem
+1919-03-02T03:26:35.610Z,-43.814,-78.294,15,7.28,mw,,,,,iscgem,iscgem912734,2022-04-25T23:51:13.426Z,"Off the coast of Los Lagos, Chile",earthquake,,25,0.35,,reviewed,iscgem,iscgem
+1919-01-05T19:52:34.830Z,-26.039,-70.675,35,6.42,mw,,,,,iscgem,iscgem912703,2022-04-25T23:50:45.328Z,"72 km WNW of Diego de Almagro, Chile",earthquake,,20.1,0.2,,reviewed,iscgem,iscgem
+1918-12-21T09:24:55.980Z,-0.625,-72.256,35,6.2,mw,,,,,iscgemsup,iscgemsup913382,2022-05-09T18:05:48.623Z,"Colombia",earthquake,,25,0.78,,reviewed,iscgemsup,iscgemsup
+1918-12-04T17:42:00.890Z,-26.697,-67.881,35,6.4,mw,,,,,iscgemsup,iscgemsup913363,2022-05-09T18:05:38.222Z,"85 km SW of Antofagasta de la Sierra, Argentina",earthquake,,25,0.2,,reviewed,iscgemsup,iscgemsup
+1918-12-04T11:47:51.310Z,-26.462,-70.65,40,8.01,mw,,,,,iscgem,iscgem913362,2022-04-25T23:57:50.315Z,"60 km W of Diego de Almagro, Chile",earthquake,,19.5,0.2,,reviewed,iscgem,iscgem
+1918-12-02T09:47:34.160Z,11.466,-43.625,10,7.06,mw,,,,,iscgem,iscgem913359,2022-04-25T23:57:49.222Z,"northern Mid-Atlantic Ridge",earthquake,,25,0.27,,reviewed,iscgem,iscgem
+1918-08-17T06:53:38.180Z,-19.379,-70.111,35,6.41,mw,,,,,iscgem,iscgem913237,2022-04-25T23:56:28.376Z,"92 km N of Iquique, Chile",earthquake,,15,0.2,,reviewed,iscgem,iscgem
+1918-07-31T14:37:10.120Z,10.876,-87.462,15,6.4,mw,,,,,iscgem,iscgem913213,2022-04-25T23:56:03.525Z,"144 km SW of Masachapa, Nicaragua",earthquake,,15.4,0.28,,reviewed,iscgem,iscgem
+1918-06-22T22:05:45.200Z,9.309,-83.905,15,5.89,mw,,,,,iscgem,iscgem913180,2022-04-25T23:55:49.853Z,"23 km WSW of San Isidro, Costa Rica",earthquake,,22.4,0.2,,reviewed,iscgem,iscgem
+1918-05-25T19:29:16.550Z,-30.409,-92.268,10,6.78,mw,,,,,iscgemsup,iscgemsup913152,2022-05-09T16:04:25.814Z,"southeast central Pacific Ocean",earthquake,,25,0.33,,reviewed,iscgemsup,iscgemsup
+1918-05-20T17:55:07.790Z,-29.178,-71.93,20,6.92,mw,,,,,iscgem,iscgem913147,2022-04-25T23:55:31.853Z,"103 km NNW of Coquimbo, Chile",earthquake,,16,0.23,,reviewed,iscgem,iscgem
+1918-05-20T14:36:06.500Z,7.409,-34.906,15,7.26,mw,,,,,iscgem,iscgem913146,2022-04-25T23:55:30.694Z,"central Mid-Atlantic Ridge",earthquake,,10.5,0.2,,reviewed,iscgem,iscgem
+1918-04-27T14:44:13.080Z,10.093,-80.651,15,5.77,mw,,,,,iscgemsup,iscgemsup913133,2022-05-09T18:04:11.080Z,"112 km N of Coclé del Norte, Panama",earthquake,,25,0.41,,reviewed,iscgemsup,iscgemsup
+1917-08-31T11:36:24.560Z,3.792,-73.649,15,7.05,mw,,,,,iscgem,iscgem913647,2022-04-26T00:00:27.197Z,"5 km SE of Castilla La Nueva, Colombia",earthquake,,25,0.45,,reviewed,iscgem,iscgem
+1917-08-30T03:24:19.570Z,3.725,-73.866,15,6.43,mw,,,,,iscgem,iscgem913645,2022-04-26T00:00:24.349Z,"8 km SSW of Cubarral, Colombia",earthquake,,25,0.47,,reviewed,iscgem,iscgem
+1917-06-30T17:50:29.980Z,6.867,-79.879,15,6.16,mw,,,,,iscgem,iscgem913554,2022-04-25T23:59:16.171Z,"75 km SSE of Pedasí, Panama",earthquake,,25,0.35,,reviewed,iscgem,iscgem
+1917-06-27T12:26:40.020Z,7.21,-81.494,15,5.98,mw,,,,,iscgem,iscgem913549,2022-04-25T23:59:13.914Z,"58 km SSW of Río Grande, Panama",earthquake,,25,0.41,,reviewed,iscgem,iscgem
+1917-03-29T02:01:30.990Z,-2.395,-80.688,15,6.22,mw,,,,,iscgemsup,iscgemsup913436,2022-05-09T18:06:06.830Z,"26 km SE of Santa Elena, Ecuador",earthquake,,21.4,0.2,,reviewed,iscgemsup,iscgemsup
+1917-02-22T09:11:49.050Z,-30.754,-78.354,10,6.52,mw,,,,,iscgemsup,iscgemsup16958319,2022-05-09T15:18:06.180Z,"southeast central Pacific Ocean",earthquake,,25,0.24,,reviewed,iscgemsup,iscgemsup
+1917-02-21T09:41:13.070Z,-28.238,-79.266,10,6.37,mw,,,,,iscgemsup,iscgemsup16958317,2022-05-09T15:18:00.505Z,"southeast central Pacific Ocean",earthquake,,25,0.44,,reviewed,iscgemsup,iscgemsup
+1917-02-15T00:48:28.160Z,-30.519,-71.789,35,6.9,mw,,,,,iscgem,iscgem913410,2022-04-25T23:58:05.599Z,"57 km W of Ovalle, Chile",earthquake,,13.4,0.2,,reviewed,iscgem,iscgem
+1916-12-23T09:24:33.710Z,-22.762,-69.642,75,6.81,mw,,,,,iscgem,iscgem913875,2022-04-26T00:03:36.361Z,"81 km WSW of Calama, Chile",earthquake,,21.4,0.2,,reviewed,iscgem,iscgem
+1916-10-03T01:26:32.230Z,-14.769,-74.265,70,6.88,mw,,,,,iscgem,iscgem913851,2022-04-26T00:02:55.147Z,"13 km SSW of San Juan, Peru",earthquake,,25.3,0.2,,reviewed,iscgem,iscgem
+1916-09-29T18:54:47.720Z,-10.613,-78.908,15,6.27,mw,,,,,iscgem,iscgem913850,2022-04-26T00:02:53.978Z,"102 km SW of Huarmey, Peru",earthquake,,16.3,0.2,,reviewed,iscgem,iscgem
+1916-09-23T05:42:39.390Z,11.225,-91.207,15,6.5,mw,,,,,iscgemsup,iscgemsup913848,2022-05-09T18:08:15.655Z,"off the coast of Central America",earthquake,,25,0.2,,reviewed,iscgemsup,iscgemsup
+1916-08-25T09:44:21.560Z,-20.162,-71.886,15,6.86,mw,,,,,iscgem,iscgem913840,2022-04-26T00:02:47.074Z,"181 km W of Iquique, Chile",earthquake,,25,0.21,,reviewed,iscgem,iscgem
+1916-06-30T03:00:27.350Z,0.733,-80.013,15,6.75,mw,,,,,iscgem,iscgem913821,2022-04-26T00:02:36.428Z,"13 km N of Muisne, Ecuador",earthquake,,13.4,0.27,,reviewed,iscgem,iscgem
+1916-06-21T21:32:42.110Z,-27.509,-63.541,600,7.08,mw,,,,,iscgem,iscgem913818,2022-04-26T00:02:35.171Z,"48 km NNW of Suncho Corral, Argentina",earthquake,,16.5,0.3,,reviewed,iscgem,iscgem
+1916-04-26T02:21:28.800Z,9.511,-82.458,10,6.74,mw,,,,,iscgem,iscgem913796,2022-04-26T00:02:30.012Z,"11 km NE of Changuinola, Panama",earthquake,,9.9,0.62,,reviewed,iscgem,iscgem
+1916-04-24T08:02:10.940Z,10.11,-83.564,15,7.14,mw,,,,,iscgem,iscgem913794,2022-04-26T00:02:28.825Z,"6 km WNW of Siquirres, Costa Rica",earthquake,,4.6,0.4,,reviewed,iscgem,iscgem
+1916-02-27T20:21:02.640Z,9.451,-87.336,15,7.26,mw,,,,,iscgem,iscgem913768,2022-04-26T00:02:05.539Z,"204 km WSW of Sámara, Costa Rica",earthquake,,25,0.47,,reviewed,iscgem,iscgem
+1915-12-07T10:38:20.850Z,8.397,-38.707,10,6.28,mw,,,,,iscgem,iscgem913956,2022-04-26T00:05:59.804Z,"central Mid-Atlantic Ridge",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1915-10-11T02:37:57.180Z,7.507,-35.934,10,6.11,mw,,,,,iscgem,iscgem913946,2022-04-26T00:05:33.807Z,"central Mid-Atlantic Ridge",earthquake,,4.5,0.2,,reviewed,iscgem,iscgem
+1915-09-12T20:43:46.220Z,7.933,-37.275,10,6.44,mw,,,,,iscgem,iscgem913941,2022-04-26T00:05:27.946Z,"central Mid-Atlantic Ridge",earthquake,,25,0.23,,reviewed,iscgem,iscgem
+1915-04-23T15:29:17.260Z,-8.258,-70.933,620,6.68,mw,,,,,iscgem,iscgem913894,2022-04-26T00:03:53.731Z,"21 km WSW of Tarauacá, Brazil",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1914-11-18T09:38:00.190Z,0.32,-81.951,15,6.53,mw,,,,,iscgem,iscgem914019,2022-04-26T00:07:48.734Z,"197 km NW of Manta, Ecuador",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1914-09-25T10:30:44.680Z,-4.615,-80.424,35,6.17,mw,,,,,iscgem,iscgem914006,2022-04-26T00:07:32.166Z,"20 km WNW of Las Lomas, Peru",earthquake,,4.5,0.2,,reviewed,iscgem,iscgem
+1914-05-28T03:23:58.610Z,9.873,-78.338,35,6.53,mw,,,,,iscgem,iscgem913985,2022-04-26T00:06:51.476Z,"54 km NNE of Narganá, Panama",earthquake,,25,0.21,,reviewed,iscgem,iscgem
+1914-04-20T13:29:57.170Z,4.72,-78.684,15,6.53,mw,,,,,iscgem,iscgem913979,2022-04-26T00:06:44.298Z,"148 km W of Pizarro, Colombia",earthquake,,2.9,0.21,,reviewed,iscgem,iscgem
+1914-01-30T07:35:45.040Z,-34.951,-69.989,15,6.53,mw,,,,,iscgemsup,iscgemsup913966,2022-05-09T18:09:16.506Z,"99 km SE of Rengo, Chile",earthquake,,25,0.26,,reviewed,iscgemsup,iscgemsup
+1914-01-30T03:36:06.550Z,-34.763,-73.309,15,7.69,mw,,,,,iscgem,iscgem913964,2022-04-26T00:06:25.010Z,"103 km NW of Constitución, Chile",earthquake,,25,0.41,,reviewed,iscgem,iscgem
+1913-10-23T15:00:10.670Z,10.065,-86.625,15,6.15,mw,,,,,iscgemsup,iscgemsup914100,2022-05-09T18:09:34.325Z,"115 km W of Santa Cruz, Costa Rica",earthquake,,11.8,0.32,,reviewed,iscgemsup,iscgemsup
+1913-10-02T04:23:37.120Z,7.575,-79.838,15,6.63,mw,,,,,iscgem,iscgem914094,2022-04-26T00:09:51.347Z,"21 km ENE of Pedasí, Panama",earthquake,,3.6,0.26,,reviewed,iscgem,iscgem
+1913-08-06T22:14:36.950Z,-16.534,-73.738,25,7.73,mw,,,,,iscgem,iscgem914088,2022-04-26T00:09:38.063Z,"37 km SSW of Atico, Peru",earthquake,,13.3,0.25,,reviewed,iscgem,iscgem
+1913-07-28T05:39:19.870Z,-17.167,-74.984,15,6.74,mw,,,,,iscgem,iscgem914086,2022-04-26T00:09:35.078Z,"165 km SSW of Atiquipa, Peru",earthquake,,25,0.24,,reviewed,iscgem,iscgem
+1913-07-25T12:38:08.890Z,12.471,-80.815,15,6.15,mw,,,,,iscgem,iscgem914084,2022-04-26T00:09:31.869Z,"97 km E of San Andrés, Colombia",earthquake,,25,0.26,,reviewed,iscgem,iscgem
+1913-05-24T23:24:54.790Z,-25.619,-72.245,15,6.89,mw,,,,,iscgem,iscgem914071,2022-04-26T00:09:01.441Z,"178 km W of Taltal, Chile",earthquake,,25,0.23,,reviewed,iscgem,iscgem
+1913-01-15T18:52:19.380Z,11.832,-89.243,15,6.4,mw,,,,,iscgem,iscgem914030,2022-04-26T00:08:00.117Z,"177 km SSW of Puerto El Triunfo, El Salvador",earthquake,,21.9,0.36,,reviewed,iscgem,iscgem
+1912-07-24T11:59:18.950Z,-4.896,-80.491,35,6.8,mw,,,,,iscgem,iscgem16958203,2022-04-25T20:34:12.943Z,"13 km ESE of Huangala, Peru",earthquake,,3.6,0.42,,reviewed,iscgem,iscgem
+1911-09-15T13:09:56.230Z,-20.18,-71.292,15,6.92,mw,,,,,iscgem,iscgem16958162,2022-04-25T20:33:19.027Z,"119 km W of Iquique, Chile",earthquake,,25,0.26,,reviewed,iscgem,iscgem
+1911-04-28T09:52:14.960Z,-9.207,-71.267,560,7.38,mw,,,,,iscgem,iscgem16958143,2022-04-25T20:33:02.303Z,"128 km SSW of Tarauacá, Brazil",earthquake,,9.8,0.3,,reviewed,iscgem,iscgem
+1911-04-10T18:42:16.710Z,7.541,-74.416,70,6.38,mw,,,,,iscgem,iscgem16958140,2022-04-25T20:32:53.027Z,"43 km E of El Bagre, Colombia",earthquake,,3.1,0.2,,reviewed,iscgem,iscgem
+1910-09-06T20:03:01.840Z,-27.421,-70.699,35,6.88,mw,,,,,iscgem,iscgem16958105,2022-04-25T20:31:45.645Z,"36 km W of Copiapó, Chile",earthquake,,6.5,0.2,,reviewed,iscgem,iscgem
+1910-05-05T00:27:38.760Z,9.801,-83.87,15,6.13,mw,,,,,iscgemsup,iscgemsup610326359,2022-05-09T15:19:36.605Z,"1 km WNW of Orosí, Costa Rica",earthquake,,16.7,0.21,,reviewed,iscgemsup,iscgemsup
+1910-03-31T18:23:02.010Z,-58.317,-65.477,10,7.11,mw,,,,,iscgemsup,iscgemsup16958078,2022-05-09T15:14:08.001Z,"Drake Passage",earthquake,,25,0.52,,reviewed,iscgemsup,iscgemsup
+1910-01-23T18:49:23.400Z,11.583,-59.474,10,6.53,mw,,,,,iscgem,iscgem16958068,2022-04-25T20:31:05.598Z,"144 km ENE of Scarborough, Trinidad and Tobago",earthquake,,25,0.22,,reviewed,iscgem,iscgem
