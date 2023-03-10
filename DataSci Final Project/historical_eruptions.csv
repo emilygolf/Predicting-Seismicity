@@ -1,0 +1,34 @@
+,Name,Date,VEI,Type
+0,Aniakchak,1450C,5,Caldera
+1,Kuwae,1452,6,Caldera
+2,Sakurajima,1471,5,Stratovolcano
+3,Bardarbunga,1477,5,Stratovolcano
+4,St. Helens,1480D,5,Stratovolcano
+5,St Helens,1482D,5,Stratovolcano
+6,St. Helens,1540,5,Stratovolcano
+7,Billy Mitchell,1580C,6,Ash shield
+8,Kelut,1586,5,Stratovolcano
+9,Raung,1593,5,Stratovolcano
+10,Huaynaputina,1600,6,Explosion crater
+11,Kamaga-Take,1640,5,Stratovolcano
+12,Parker,"Jan. 4, 1641",6,Stratovolcano
+13,Long Island,1660,6,Complex volcano
+14,Usu,"Aug. 16,1663",5,Stratovolcano
+15,Tarumai,"Aug. 6, 1667",5,Stratovolcano
+16,Gamkonora,1673,5,Stratovolcano
+17,Tongkoko,1680,5,Stratovolcano
+18,Tarumai,"Aug., 1739",5,Stratovolcano
+19,Katla,"Oct. 17, 1755",5,Subglacial
+20,Tambora,"April 5, 1815",7,Stratovolcano
+21,Galunggung,"Oct. 8, 1822",5,Stratovolcano
+22,Cosiguina,"June 20, 1835",5,Stratovolcano
+23,Sheveluch,"Feb. 17, 1854",5,Stratovolcano
+24,Askja,"March 29, 1875",5,Stratovolcano
+25,Krakatau,"Aug. 26, 1883",6,Caldera
+26,Tarawera,"June 10, 1886",5,Fissure on lava dome
+27,Santa Maria,"Oct., 24, 1902",6,Stratovolcano
+28,Ksudach,"March 28, 1907",5,Shield
+29,Katmai,"June 6, 1911",6,Stratovolcano
+30,Cerro Azul,"April 10, 1932",5,Stratovolcano
+31,Bezymianny,"March 30, 1956",5,Stratovolcano
+32,St. Helens,18-May-80,5,Stratovolcano
