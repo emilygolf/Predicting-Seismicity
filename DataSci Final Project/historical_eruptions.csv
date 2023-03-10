@@ -1,24 +1,24 @@
-,Name,Date,VEI,Type_x,Volcano Name_x,Country_x,Location_x,Latitude_x,Longitude_x,Type_y,Volcano Name_y,Country_y,Location_y,Latitude_y,Longitude_y,Type
-0,Aniakchak,1450C,5,Caldera,Aniakchak,United States,Alaska Peninsula,56.88,-158.17,Caldera,Aniakchak,United States,Alaska Peninsula,56.88,-158.17,Caldera
-1,Kuwae,1452,6,Caldera,Kuwae,Vanuatu,Vanuatu-SW Pacific,-16.829,168.536,Caldera,Kuwae,Vanuatu,Vanuatu-SW Pacific,-16.829,168.536,Caldera
-2,Bardarbunga,1477,5,Stratovolcano,Bardarbunga,Iceland,Iceland-NE,64.633,-17.516,Stratovolcano,Bardarbunga,Iceland,Iceland-NE,64.633,-17.516,Stratovolcano
-3,St. Helens,1480D,5,Stratovolcano,St. Helens,United States,US-Washington,46.2,-122.18,Stratovolcano,St. Helens,United States,US-Washington,46.2,-122.18,Stratovolcano
-4,St. Helens,1540,5,Stratovolcano,St. Helens,United States,US-Washington,46.2,-122.18,Stratovolcano,St. Helens,United States,US-Washington,46.2,-122.18,Stratovolcano
-5,St. Helens,18-May-80,5,Stratovolcano,St. Helens,United States,US-Washington,46.2,-122.18,Stratovolcano,St. Helens,United States,US-Washington,46.2,-122.18,Stratovolcano
-6,Billy Mitchell,1580C,6,Ash shield,Billy Mitchell,Papua New Guinea,Bougainville-SW Paci,-6.092,155.225,Pyroclastic shield,Billy Mitchell,Papua New Guinea,Bougainville-SW Paci,-6.092,155.225,Pyroclastic shield
-7,Raung,1593,5,Stratovolcano,Raung,Indonesia,Java,-8.119,114.056,Stratovolcano,Raung,Indonesia,Java,-8.119,114.056,Stratovolcano
-8,Huaynaputina,1600,6,Explosion crater,Huaynaputina,Peru,Peru,-16.608,-70.85,Stratovolcano,Huaynaputina,Peru,Peru,-16.608,-70.85,Stratovolcano
-9,Parker,"Jan. 4, 1641",6,Stratovolcano,Parker,Philippines,Mindanao-Philippines,6.113,124.892,Stratovolcano,Parker,Philippines,Mindanao-Philippines,6.113,124.892,Stratovolcano
-10,Long Island,1660,6,Complex volcano,Long Island,Papua New Guinea,New Guinea-NE of,-5.358,147.12,Complex volcano,Long Island,Papua New Guinea,New Guinea-NE of,-5.358,147.12,Complex volcano
-11,Gamkonora,1673,5,Stratovolcano,Gamkonora,Indonesia,Halmahera-Indonesia,1.38,127.53,Stratovolcano,Gamkonora,Indonesia,Halmahera-Indonesia,1.38,127.53,Stratovolcano
-12,Katla,"Oct. 17, 1755",5,Subglacial,Katla,Iceland,Iceland-S,63.633,-19.083,Subglacial volcano,Katla,Iceland,Iceland-S,63.633,-19.083,Subglacial volcano
-13,Tambora,"April 5, 1815",7,Stratovolcano,Tambora,Indonesia,Lesser Sunda Is,-8.25,118.0,Stratovolcano,Tambora,Indonesia,Lesser Sunda Is,-8.25,118.0,Stratovolcano
-14,Galunggung,"Oct. 8, 1822",5,Stratovolcano,Galunggung,Indonesia,Java,-7.25,108.058,Stratovolcano,Galunggung,Indonesia,Java,-7.25,108.058,Stratovolcano
-15,Cosiguina,"June 20, 1835",5,Stratovolcano,Cosiguina,Nicaragua,Nicaragua,12.98,-87.57,Stratovolcano,Cosiguina,Nicaragua,Nicaragua,12.98,-87.57,Stratovolcano
-16,Sheveluch,"Feb. 17, 1854",5,Stratovolcano,Sheveluch,Russia,Kamchatka,56.653,161.36,Stratovolcano,Sheveluch,Russia,Kamchatka,56.653,161.36,Stratovolcano
-17,Askja,"March 29, 1875",5,Stratovolcano,Askja,Iceland,Iceland-NE,65.033,-16.783,Stratovolcano,Askja,Iceland,Iceland-NE,65.033,-16.783,Stratovolcano
-18,Krakatau,"Aug. 26, 1883",6,Caldera,Krakatau,Indonesia,Indonesia,-6.102,105.423,Caldera,Krakatau,Indonesia,Indonesia,-6.102,105.423,Caldera
-19,Santa Maria,"Oct., 24, 1902",6,Stratovolcano,Santa Maria,Guatemala,Guatemala,14.757,-91.552,Stratovolcano,Santa Maria,Guatemala,Guatemala,14.757,-91.552,Stratovolcano
-20,Ksudach,"March 28, 1907",5,Shield,Ksudach,Russia,Kamchatka,51.844,157.572,Stratovolcano,Ksudach,Russia,Kamchatka,51.844,157.572,Stratovolcano
-21,Katmai,"June 6, 1911",6,Stratovolcano,Katmai,United States,Alaska Peninsula,58.28,-154.963,Stratovolcano,Katmai,United States,Alaska Peninsula,58.28,-154.963,Stratovolcano
-22,Bezymianny,"March 30, 1956",5,Stratovolcano,Bezymianny,Russia,Kamchatka,55.972,160.595,Stratovolcano,Bezymianny,Russia,Kamchatka,55.972,160.595,Stratovolcano
+,Name,Date,VEI,Type_x,Volcano Name,Country,Location,Latitude,Longitude,Type_y
+0,Aniakchak,1450C,5,Caldera,Aniakchak,United States,Alaska Peninsula,56.88,-158.17,Caldera
+1,Kuwae,1452,6,Caldera,Kuwae,Vanuatu,Vanuatu-SW Pacific,-16.829,168.536,Caldera
+2,Bardarbunga,1477,5,Stratovolcano,Bardarbunga,Iceland,Iceland-NE,64.633,-17.516,Stratovolcano
+3,St. Helens,1480D,5,Stratovolcano,St. Helens,United States,US-Washington,46.2,-122.18,Stratovolcano
+4,St. Helens,1540,5,Stratovolcano,St. Helens,United States,US-Washington,46.2,-122.18,Stratovolcano
+5,St. Helens,18-May-80,5,Stratovolcano,St. Helens,United States,US-Washington,46.2,-122.18,Stratovolcano
+6,Billy Mitchell,1580C,6,Ash shield,Billy Mitchell,Papua New Guinea,Bougainville-SW Paci,-6.092,155.225,Pyroclastic shield
+7,Raung,1593,5,Stratovolcano,Raung,Indonesia,Java,-8.119,114.056,Stratovolcano
+8,Huaynaputina,1600,6,Explosion crater,Huaynaputina,Peru,Peru,-16.608,-70.85,Stratovolcano
+9,Parker,"Jan. 4, 1641",6,Stratovolcano,Parker,Philippines,Mindanao-Philippines,6.113,124.892,Stratovolcano
+10,Long Island,1660,6,Complex volcano,Long Island,Papua New Guinea,New Guinea-NE of,-5.358,147.12,Complex volcano
+11,Gamkonora,1673,5,Stratovolcano,Gamkonora,Indonesia,Halmahera-Indonesia,1.38,127.53,Stratovolcano
+12,Katla,"Oct. 17, 1755",5,Subglacial,Katla,Iceland,Iceland-S,63.633,-19.083,Subglacial volcano
+13,Tambora,"April 5, 1815",7,Stratovolcano,Tambora,Indonesia,Lesser Sunda Is,-8.25,118.0,Stratovolcano
+14,Galunggung,"Oct. 8, 1822",5,Stratovolcano,Galunggung,Indonesia,Java,-7.25,108.058,Stratovolcano
+15,Cosiguina,"June 20, 1835",5,Stratovolcano,Cosiguina,Nicaragua,Nicaragua,12.98,-87.57,Stratovolcano
+16,Sheveluch,"Feb. 17, 1854",5,Stratovolcano,Sheveluch,Russia,Kamchatka,56.653,161.36,Stratovolcano
+17,Askja,"March 29, 1875",5,Stratovolcano,Askja,Iceland,Iceland-NE,65.033,-16.783,Stratovolcano
+18,Krakatau,"Aug. 26, 1883",6,Caldera,Krakatau,Indonesia,Indonesia,-6.102,105.423,Caldera
+19,Santa Maria,"Oct., 24, 1902",6,Stratovolcano,Santa Maria,Guatemala,Guatemala,14.757,-91.552,Stratovolcano
+20,Ksudach,"March 28, 1907",5,Shield,Ksudach,Russia,Kamchatka,51.844,157.572,Stratovolcano
+21,Katmai,"June 6, 1911",6,Stratovolcano,Katmai,United States,Alaska Peninsula,58.28,-154.963,Stratovolcano
+22,Bezymianny,"March 30, 1956",5,Stratovolcano,Bezymianny,Russia,Kamchatka,55.972,160.595,Stratovolcano
